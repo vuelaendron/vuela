@@ -1,5 +1,3 @@
-# vuela
-README para GitHub
 
 # “¡Vuela!” - building an open science drone toolkit
 
