@@ -1,4 +1,4 @@
-
+See Spanish version bellow. 
 # “¡Vuela!” - building an open science drone toolkit
 
 In this project we will be prototyping an open source drone toolkit that can be used for research purposes in different fields, in which this technology is already used but is dominated by closed-source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. This project is being possible thanks to a Mozilla Science 2018 mini-grant.
