@@ -23,7 +23,7 @@ Herramientas en línea y comunidades globales están actualmente ayudando a que 
 
 The members of our ‘crew’ are hobbyists, researchers, community scientists, neighbours, students, developers, and we speak Spanish, Haitian Créole, English, French and Portuguese. We welcome and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you. We welcome contributions from everyone as long as they interact constructively with our community and adhere to the code of conduct.
 
-Los miembros de nuestra "tripulación" son aficionados, investigadores, científicos comunitarios, vecinos, estudiantes, desarrolladores, y hablamos español, criollo haitiano, inglés, francés y portugués. Damos la bienvenida y alentamos la participación de todos, sin importar cómo te identifiques o cómo te perciban los demás. Damos la bienvenida a las contribuciones de todas y todos, siempre y cuando interactúen de manera constructiva con nuestra comunidad y se adhieran al código de conducta. FIX
+Los miembros de nuestra "tripulación" son aficionados, investigadores, científicos comunitarios, vecinos, estudiantes, desarrolladores, y hablamos español, criollo haitiano, inglés, francés y portugués. Damos la bienvenida y alentamos la participación de todos, sin importar cómo te identifiques o cómo te perciban los demás. Damos la bienvenida a las contribuciones de todas y todos, siempre y cuando interactúen de manera constructiva con nuestra comunidad y se adhieran al código de conducta. 
 
 ### How - Cómo
 
