@@ -71,7 +71,7 @@ _En el taller final en Chile, el kit de herramientas completo será probado en u
 
 You can find more info about the project and all of our documentation and data in our Open Science Framework repository: https://osf.io/fscn4/
 
-_Podés encontrar más información sobre el proyecto y toda nuestra documentación y datos en nuestro repositorio de Open Science Framework: https://osf.io/fscn4/ _
+_Podés encontrar más información sobre el proyecto y toda nuestra documentación y datos en nuestro repositorio de Open Science Framework: https://osf.io/fscn4/ 
 
 ## Contributing - _Cómo contribuir_
 
@@ -89,6 +89,6 @@ _Este proyecto se adhiere a un [código de conducta] (CODE_OF_CONDUCT.md). Al pa
 
 Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
 
-_Únetenos en el [Sprint Global de Mozilla] (http://mzl.la/global-sprint/) los días 10 y 11 de mayo de 2018! Nos reuniremos en persona en sitios de todo el mundo y en línea para colaborar en este proyecto y aprender unos de otros. [Inscríbete en el #mozsprint ahora] (http://mzl.la/global-sprint/)_ 
+_Únetenos en el [Sprint Global de Mozilla] (http://mzl.la/global-sprint/) los días 10 y 11 de mayo de 2018! Nos reuniremos en persona en sitios de todo el mundo y en línea para colaborar en este proyecto y aprender unos de otros. [Inscríbete en el #mozsprint ahora] (http://mzl.la/global-sprint/) 
 
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
