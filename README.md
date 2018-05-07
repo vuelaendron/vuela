@@ -1,6 +1,6 @@
 
 # “¡Vuela!”
-# Building an open science drone toolkit - _Construyendo un kit de hardware y software de dron para la ciencia abierta_ 
+# Open science with drones - _Ciencia libre con drones_ 
 
 ![Vuela](https://mfr.osf.io/render?url=https://osf.io/kxhgu/?action=download%26mode=render)
 
