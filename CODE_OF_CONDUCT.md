@@ -1,8 +1,8 @@
-[Código de conducta de Vuela - ESPAÑOL](#heading=h.387pifwnsipr)
+[Código de conducta de Vuela - ESPAÑOL](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol)
 
-[Vuela Code of Conduct - English](#heading=h.5jtmo1x2h2gv)
+[Vuela Code of Conduct - English](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#vuela-code-of-conduct---english)
 
-[Code de conduite de Vuela - FRANÇAIS](#heading=h.6xevvm32wesm)
+[Code de conduite de Vuela - FRANÇAIS](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#code-de-conduite-de-vuela---fran%C3%87ais)
 
 # Código de conducta de Vuela - ESPAÑOL
 
