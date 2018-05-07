@@ -1,6 +1,6 @@
-Cómo contribuir - ESPAÑOL
+[Cómo contribuir - ESPAÑOL](https://github.com/vuelaendron/vuela/blob/master/CONTRIBUTING.md#c%C3%B3mo-contribuir---espa%C3%91ol)
 
-Contributing - ENGLISH
+[Contributing - ENGLISH](https://github.com/vuelaendron/vuela/blob/master/CONTRIBUTING.md#contributing---english)
 
 # Cómo contribuir - ESPAÑOL
 
