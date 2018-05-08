@@ -10,7 +10,7 @@
 
 ## Vuela - Ciencia libre con drones
 
-Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela proyecto se basa en hardware y software de código abierto disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto es posible gracias a una mini-subvención de Mozilla Science 2018.
+Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software de código abierto disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto es posible gracias a una mini-subvención de Mozilla Science 2018.
 
 ## Pautas de participación
 
