@@ -2,7 +2,9 @@
 # “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
 
-![Vuela](https://mfr.osf.io/render?url=https://osf.io/kxhgu/?action=download%26mode=render)
+![Vuela](https://mfr.osf.io/render?url=https://osf.io/kxhgu/?action=download%26mode=render) 
+
+(See photos and videos in our instagram: @sombrerohill and vimeo https://vimeo.com/user67511666) 
 
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela is being possible thanks to a Mozilla Science 2018 mini-grant..
 
