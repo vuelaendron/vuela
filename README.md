@@ -2,7 +2,7 @@
 # “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
 
-![Vuela](https://mfr.osf.io/render?url=https://osf.io/kxhgu/?action=download%26mode=render) 
+![Vuela](https://github.com/vuelaendron/vuela/blob/master/vuela_sticker.480x480.jpg) 
 
 (See photos and videos in our instagram: @sombrerohill and vimeo https://vimeo.com/user67511666) 
 
