@@ -4,7 +4,7 @@
 
 ![Vuela](https://github.com/vuelaendron/vuela/blob/master/vuela_sticker.480x480.jpg) 
 
-(See photos and videos in our instagram: @sombrerohill and vimeo https://vimeo.com/user67511666) 
+(See photos and videos in our instagram: https://www.instagram.com/sombrerohill/ and vimeo https://vimeo.com/user67511666) 
 
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela is being possible thanks to a Mozilla Science 2018 mini-grant..
 
