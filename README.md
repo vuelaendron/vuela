@@ -16,9 +16,9 @@ _Creemos que nuestro énfasis por igual en el_ quién, _el_ cómo _y el_ qué _e
 
 ### Who - _Quién_
 
-We believe people with no previous technical experience can and should work side by side with those with official training or experience. This type of collaboration has the power of furthering the goals of democratizing science and technology, but also of improving the effectiveness and impact of open technologies in society. 
+We believe people with no previous technical experience can and should work side by side with those with official training or experience. This type of collaboration has the power of furthering the goals of democratizing science and technology, but also of improving the relevance, effectiveness, and impact of open technologies in society. 
 
-_Creemos que personas sin experiencia técnica previa pueden y deben trabajar codo a codo con quienes poseen experiencia o entrenamiento oficial. Este tipo de colaboración tiene el poder de promover los objetivos de la democratización de la ciencia y la tecnología, pero también de mejorar la efectividad y el impacto de las tecnologías abiertas en la sociedad._ 
+_Creemos que personas sin experiencia técnica previa pueden y deben trabajar codo a codo con quienes poseen experiencia o entrenamiento oficial. Este tipo de colaboración tiene el poder de promover los objetivos de la democratización de la ciencia y la tecnología, pero también de mejorar la relevancia, efectividad y el impacto de las tecnologías abiertas en la sociedad._ 
 
 Online tools and global communities are helping make open technologies more accessible, but there is still a significant barrier: English is the dominant language in global communities, limiting access in Latin America, where only a minority learns a foreign language.
 
