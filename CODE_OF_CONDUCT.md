@@ -6,7 +6,7 @@
 
 # Código de conducta de Vuela - ESPAÑOL
 
-Nos esforzamos por hacer que el proyecto Vuela esté abierto para todos, independientemente de antecedentes académicos, laborales o profesionales, identidad o expresión de género, orientación sexual, capacidad, apariencia física, tamaño del cuerpo, etnicidad, edad, origen económico, país de origen, idioma, empleo, religión y otras diferencias. Porque tenemos diferentes orígenes, es importante tener la intención de proporcionar espacios respetuosos y equitativos -tanto en línea como en persona- para unirnos e involucrarnos con un discurso constructivo y respetuoso. Tenemos fines pacíficos y no dañinos.
+Nos esforzamos por hacer que el proyecto Vuela esté abierto para todos, independientemente de antecedentes académicos, laborales o profesionales, identidad o expresión de género, orientación sexual, capacidad, apariencia física, tamaño del cuerpo, etnicidad, edad, situación económica, país de origen, idioma, empleo, religión y otras diferencias. Porque tenemos diferentes orígenes, es importante tener la intención de proporcionar espacios respetuosos y equitativos -tanto en línea como en persona- para unirnos e involucrarnos con un discurso constructivo y respetuoso. Tenemos fines pacíficos y no dañinos.
 
 Vuela es equitativo. La equidad reconoce el hecho de que no todo el mundo comienza desde la misma posición y que tratar a todos de la misma manera podría mantener la disparidad con la que comenzaron. Por esta razón, buscamos reducir intencionalmente las barreras que hay para acceder a crear, usar y aprender de la ciencia y la tecnología.
 
@@ -18,7 +18,7 @@ Tomamos muy en serio las violaciones al Código de Conducta. Por lo tanto, quien
 
 ## Cómo funciona
 
-Este Código es un esfuerzo por mantener un espacio respetuoso para todos y para discutir qué podría pasar si ese espacio se viera comprometido. Por favor lea las pautas de comportamiento de nuestro proyecto a continuación y tengalas presentes cuando participe de las actividades. 
+Este Código es un esfuerzo por mantener un espacio respetuoso para todos y para discutir qué podría pasar si ese espacio se viera comprometido. Por favor lea las pautas de comportamiento de nuestro proyecto a continuación y tenlas presentes cuando participe de las actividades. 
 
 ### Escuchamos
 
