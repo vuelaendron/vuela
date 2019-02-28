@@ -56,7 +56,8 @@ Through these modifications, the Flone ended up being quite different: bigger an
 _Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre)._
 
 
-![OVLI](imagenes/OVLI_2019-01-30.jpg) 
+![OVLI](imagenes/OVLI_2019-01-30.JPG)
+      
 
 
 ## More info - _Más información_
