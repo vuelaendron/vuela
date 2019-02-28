@@ -4,15 +4,16 @@
 
 ![Vuela](https://github.com/vuelaendron/vuela/blob/master/imagenes/vuela_sticker.480x480.jpg) 
 
-See photos and videos in our instagram: https://www.instagram.com/sombrerohill/ and vimeo https://vimeo.com/user67511666 
+Instagram: https://www.instagram.com/sombrerohill/ 
+Vimeo https://vimeo.com/user67511666 
+Foro: http://foro.vuela.cc/
+OVLI assembly guide / Guía de construcción del OVLI: https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit?usp=sharing
 
-and some stories here: https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e) and here: http://revista.ibict.br/liinc/article/view/4237 [in Spanish]
+and some stories here / algunas historias aquí: https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e) and here: http://revista.ibict.br/liinc/article/view/4237 [in Spanish]
 
-And our forum http://foro.vuela.cc/
+With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
 
-With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela is being possible thanks to a Mozilla Science 2018 mini-grant.
-
-_Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto es posible gracias a una mini-subvención de Mozilla Science Lab 2018._ 
+_Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto ha sido posible gracias a fondos de NUMIES, Mozilla Science y PROCISUR._ 
 
 We believe our equal emphasis on the _who_, the _how_ and the _what_ is the most unique and exciting aspect of this project. 
 
@@ -42,9 +43,9 @@ Open source definitions refer to the ability to replicate, modify, adapt and red
 
 _Las definiciones de código abierto se refieren a la capacidad de replicar, modificar, adaptar y redistribuir, pero estos pasos generalmente se dan por sentados y no son particularmente fomentados. Con esto en mente, en lugar de desarrollar una herramienta desde cero, comenzamos este proyecto replicando, probando e identificando posibles mejoras para un dron de código abierto ya disponible llamado 'Flone' (flone.cc), en una serie de talleres abiertos y colaborativos. Creemos que la ciencia abierta necesita un tipo diferente de "usuaria" de herramientas científicas, que no solamente sea una usuaria sino también una colaboradora._ 
 
-Between April and July 2018 we will work towards developing this new prototype with a total of 7 local, in-person workshops, and also online using collaborative tools such as GitHub and the Open Science Framework. We will prioritize having documentation in different languages (at least English, Spanish and Haitian Créole), and in a format that is easy to modify and translate.
+Between April and July 2018 we worked towards developing this new prototype in more than 10 local, in-person workshops, and also online using collaborative tools such as GitHub and the Open Science Framework. We also developed documentation in different languages (in English, Spanish and Haitian Créole), and in a format that is easy to modify and translate. Between August 2018 and January 2019 we worked on further improving this prototype and then put it to the test for agricultural research in 5 South American countries: Argentina, Brazil, Chile, Paraguay and Uruguay.
 
-_Entre abril y julio de 2018 trabajaremos para desarrollar este nuevo prototipo en un total de 7 talleres locales y presenciales, y también a través de un trabajo permanente en línea utilizando herramientas de colaboración como GitHub y Open Science Framework. Priorizaremos tener la documentación en diferentes idiomas (al menos inglés, español y criollo haitiano), y en un formato que sea fácil de modificar y traducir._ 
+_Entre abril y julio de 2018 trabajamos para desarrollar este nuevo prototipo en más de 10 talleres locales y presenciales, y también a través de un trabajo permanente en línea utilizando herramientas de colaboración como GitHub y Open Science Framework. También desarrollamos documentación en diferentes idiomas (inglés, español y criollo haitiano), y en un formato que sea fácil de modificar y traducir. Entre agosto de 2018 y enero de 2019 trabajamos para mejorar aún más el prototipo y ponerlo a prueba para investigación agrícola en 5 países de Sudamérica: Argentina, Brasil, Chile, Paraguay y Uruguay._ 
 
 
 ### What - _Qué_
@@ -53,13 +54,13 @@ Drones can be a powerful tool for research in disciplines such as agriculture an
 
 _Los drones pueden ser una poderosa herramienta para la investigación en disciplinas como la agricultura y las ciencias ambientales, permitiendo la captura de imágenes aéreas con gran flexibilidad. Pero la ciencia abierta requiere instrumentos y materiales abiertos, y los drones no deberían ser una excepción._
 
-A number of possible improvements, modifications and additions to the original design of the ‘Flone’, necessary for using the drone for research purposes, were identified during our 2017 workshops. For a ‘typical’ use in research, a drone needs to be able to be reliably positioned over the studied terrain and capture high-quality images that can be later processed into a high-resolution, ortho-rectified mosaic image of the surveyed area (an orthophoto, orthophotograph or orthoimage is an aerial photograph or image geometrically corrected -"orthorectified"- such that the scale is uniform. And a mosaic is a combination or merge of two or more images). These improvements will be the subject of the project activities during 2018:
+A number of possible improvements, modifications and additions to the original design of the ‘Flone’, necessary for using the drone for research purposes, were identified during our 2017 workshops. For a ‘typical’ use in research, a drone needs to be able to be reliably positioned over the studied terrain and capture high-quality images that can be later processed into a high-resolution, ortho-rectified mosaic image of the surveyed area (an orthophoto, orthophotograph or orthoimage is an aerial photograph or image geometrically corrected -"orthorectified"- such that the scale is uniform. And a mosaic is a combination or merge of two or more images). These improvements were the subject of the project activities during 2018:
 
-_En nuestros talleres de 2017 se identificaron varias posibles mejoras, modificaciones y adiciones al diseño original del 'Flone', necesarios para utilizar el dron con fines de investigación. En un  uso "típico" en investigación, un dron necesita poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes de alta calidad que luego puedan procesarse para obtener una imagen de mosaico ortorectificado de alta resolución del área estudiada (una ortofoto, ortofotografía es una imagen corregida geométricamente -ortorectificada- de forma que la escala sea uniforme. Y un mosaico es una combinación o fusión de dos o más imágenes). Estas mejoras serán el objetivo de las actividades del proyecto durante 2018:_ 
+_En nuestros talleres de 2017 se identificaron varias posibles mejoras, modificaciones y adiciones al diseño original del 'Flone', necesarios para utilizar el dron con fines de investigación. En un  uso "típico" en investigación, un dron necesita poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes de alta calidad que luego puedan procesarse para obtener una imagen de mosaico ortorectificado de alta resolución del área estudiada (una ortofoto, ortofotografía es una imagen corregida geométricamente -ortorectificada- de forma que la escala sea uniforme. Y un mosaico es una combinación o fusión de dos o más imágenes). Estas mejoras fueron el objetivo de las actividades del proyecto durante 2018:_ 
 
 - Improving the ability of the pilot to accurately position the drone. The original ‘Flone’ is controlled using a smartphone app, which communicates with the flone via bluetooth. The range is therefore limited to about 10 meters. First, we want to increase the range by either i) an improved bluetooth antenna, ii) using a radio link, or iii) using wifi. Second, we want to add a GPS module to allow the drone to automatically lock its position.
 
-- _Mejorar la capacidad del piloto para posicionar con precisión el dron. El 'Flone' original se controla utilizando una aplicación de celular, que se comunica con el flone ​​a través de bluetooth. Por lo tanto, el alcance está limitado a unos 10 metros. En primer lugar, queremos aumentar el alcance a través de: i) una antena bluetooth mejorada, ii) usando un enlace de radio, o iii) usando wifi. En segundo lugar, queremos agregar un módulo GPS para permitir que el dron mantenga automáticamente su posición._ 
+- _Mejorar la capacidad del piloto para posicionar con precisión el dron. El 'Flone' original se controla utilizando una aplicación de celular, que se comunica con el flone a través de bluetooth. Por lo tanto, el alcance está limitado a unos 10 metros. En primer lugar, queremos aumentar el alcance a través de: i) una antena bluetooth mejorada, ii) usando un enlace de radio, o iii) usando wifi. En segundo lugar, queremos agregar un módulo GPS para permitir que el dron mantenga automáticamente su posición._ 
 
 - Improving image capture. The images captured in our first tests were not satisfactory, due to the vibration from the motors. We want to test two alternative solutions: i) reducing the vibration by adding different vibration damping materials, and ii) using an active camera stabilizing device (‘gimbal’) attached to the drone, for which there is an open-source design already available.
 
@@ -73,11 +74,28 @@ In the final workshop in Chile the complete toolkit will be tested in one of the
 
 _En el taller final en Chile, el kit de herramientas completo será probado en uno de los sitios previamente identificados por la comunidad: una cantera ilegal en el cerro urbano "El Sombrero" en la ciudad de Melipilla._ 
 
+![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI 2019-01-30.jpg) 
+
 ## More info - _Más información_
 
-You can find more info about the project and all of our documentation and data in our Open Science Framework repository: https://osf.io/fscn4/
+You can find more info about how the project started in these stories:
+_Podés encontrar más información sobre cómo comenzó el proyecto en estas historias:_
+https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e
+http://revista.ibict.br/liinc/article/view/4237 [in Spanish]
 
-_Podés encontrar más información sobre el proyecto y toda nuestra documentación y datos en nuestro repositorio de Open Science Framework:_ https://osf.io/fscn4/ 
+And some photos and videos here:
+_Y algunas fotos y videos acá:_
+Instagram: https://www.instagram.com/sombrerohill/ 
+Vimeo https://vimeo.com/user67511666 
+
+You can connect with us through our forum: 
+_Podés conectarte con nosotros a través del foro:_
+http://foro.vuela.cc/
+
+And you can find out how to build your own OVLI with our assembly guide: 
+_Y aprender cómo construirte tu propio OVLI con la guía de construcción:_
+https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit?usp=sharing 
+
 
 ## Contributing - _Cómo contribuir_
 
@@ -90,11 +108,3 @@ _¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to vuelaendron@gmail.com.
 
 _Este proyecto se adhiere a un [código de conducta] (CODE_OF_CONDUCT.md). Al participar, se espera que cumplas este código. Puedes informar conductas inadecuadas a vuelaendron@gmail.com._
-
-## MozSprint
-
-Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
-
-_Únetenos en el [Sprint Global de Mozilla] (http://mzl.la/global-sprint/) los días 10 y 11 de mayo de 2018! Nos reuniremos en persona en sitios de todo el mundo y en línea para colaborar en este proyecto y aprender unos de otros._ [Inscríbete en el #mozsprint ahora](http://mzl.la/global-sprint/) 
-
-![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
