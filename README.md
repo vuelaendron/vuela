@@ -53,7 +53,7 @@ _En nuestros talleres de 2017 se identificaron varias posibles mejoras, modifica
 
 Through these modifications, the Flone ended up being quite different: bigger and more powerful! And we called it OVLI (Objeto Volador LIbre, Free Flying Object in Spanish).
 
-_Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre).
+_Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre)._
 
 ![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI_2019-01-30.jpg) 
 
