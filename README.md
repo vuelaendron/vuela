@@ -4,13 +4,6 @@
 
 ![Vuela](https://github.com/vuelaendron/vuela/blob/master/imagenes/vuela_sticker.480x480.jpg) 
 
-Instagram: https://www.instagram.com/sombrerohill/ 
-Vimeo https://vimeo.com/user67511666 
-Foro: http://foro.vuela.cc/
-OVLI assembly guide / Guía de construcción del OVLI: https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit?usp=sharing
-
-and some stories here / algunas historias aquí: https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e) and here: http://revista.ibict.br/liinc/article/view/4237 [in Spanish]
-
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
 
 _Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto ha sido posible gracias a fondos de NUMIES, Mozilla Science y PROCISUR._ 
@@ -54,27 +47,15 @@ Drones can be a powerful tool for research in disciplines such as agriculture an
 
 _Los drones pueden ser una poderosa herramienta para la investigación en disciplinas como la agricultura y las ciencias ambientales, permitiendo la captura de imágenes aéreas con gran flexibilidad. Pero la ciencia abierta requiere instrumentos y materiales abiertos, y los drones no deberían ser una excepción._
 
-A number of possible improvements, modifications and additions to the original design of the ‘Flone’, necessary for using the drone for research purposes, were identified during our 2017 workshops. For a ‘typical’ use in research, a drone needs to be able to be reliably positioned over the studied terrain and capture high-quality images that can be later processed into a high-resolution, ortho-rectified mosaic image of the surveyed area (an orthophoto, orthophotograph or orthoimage is an aerial photograph or image geometrically corrected -"orthorectified"- such that the scale is uniform. And a mosaic is a combination or merge of two or more images). These improvements were the subject of the project activities during 2018:
+A number of possible improvements, modifications and additions to the original design of the ‘Flone’, necessary for using the drone for research purposes, were identified during our 2017 workshops. For a ‘typical’ use in research, a drone needs to be able to be reliably positioned over the studied terrain and capture high-quality images that can be later processed into a high-resolution, ortho-rectified mosaic image of the surveyed area (an orthophoto, orthophotograph or orthoimage is an aerial photograph or image geometrically corrected -"orthorectified"- such that the scale is uniform. And a mosaic is a combination or merge of two or more images). These improvements were the subject of the project activities during 2018.
 
-_En nuestros talleres de 2017 se identificaron varias posibles mejoras, modificaciones y adiciones al diseño original del 'Flone', necesarios para utilizar el dron con fines de investigación. En un  uso "típico" en investigación, un dron necesita poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes de alta calidad que luego puedan procesarse para obtener una imagen de mosaico ortorectificado de alta resolución del área estudiada (una ortofoto, ortofotografía es una imagen corregida geométricamente -ortorectificada- de forma que la escala sea uniforme. Y un mosaico es una combinación o fusión de dos o más imágenes). Estas mejoras fueron el objetivo de las actividades del proyecto durante 2018:_ 
+_En nuestros talleres de 2017 se identificaron varias posibles mejoras, modificaciones y adiciones al diseño original del 'Flone', necesarios para utilizar el dron con fines de investigación. En un  uso "típico" en investigación, un dron necesita poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes de alta calidad que luego puedan procesarse para obtener una imagen de mosaico ortorectificado de alta resolución del área estudiada (una ortofoto, ortofotografía es una imagen corregida geométricamente -ortorectificada- de forma que la escala sea uniforme. Y un mosaico es una combinación o fusión de dos o más imágenes). Estas mejoras fueron el objetivo de las actividades del proyecto durante 2018._ 
 
-- Improving the ability of the pilot to accurately position the drone. The original ‘Flone’ is controlled using a smartphone app, which communicates with the flone via bluetooth. The range is therefore limited to about 10 meters. First, we want to increase the range by either i) an improved bluetooth antenna, ii) using a radio link, or iii) using wifi. Second, we want to add a GPS module to allow the drone to automatically lock its position.
+Through these modifications, the Flone ended up being quite different: bigger and more powerful! And we called it OVLI (Objeto Volador LIbre, Free Flying Object in Spanish).
 
-- _Mejorar la capacidad del piloto para posicionar con precisión el dron. El 'Flone' original se controla utilizando una aplicación de celular, que se comunica con el flone a través de bluetooth. Por lo tanto, el alcance está limitado a unos 10 metros. En primer lugar, queremos aumentar el alcance a través de: i) una antena bluetooth mejorada, ii) usando un enlace de radio, o iii) usando wifi. En segundo lugar, queremos agregar un módulo GPS para permitir que el dron mantenga automáticamente su posición._ 
+_Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre).
 
-- Improving image capture. The images captured in our first tests were not satisfactory, due to the vibration from the motors. We want to test two alternative solutions: i) reducing the vibration by adding different vibration damping materials, and ii) using an active camera stabilizing device (‘gimbal’) attached to the drone, for which there is an open-source design already available.
-
-- _Mejorar la captura de imágenes. Las imágenes capturadas en nuestras primeras pruebas no fueron satisfactorias debido a la vibración de los motores. Queremos probar dos soluciones alternativas: i) reducir la vibración agregando diferentes materiales de amortiguación, y ii) usar un dispositivo activo de estabilización de la  cámara ('gimbal') conectado al dron, para el cual hay un diseño de código abierto ya disponible._ 
-
-- Testing an image processing pipeline. We need to be able to combine several captured images into an orthorectified mosaic which can be further processed or analyzed depending on the research question (e.g. to measure vegetation or to map terrain features). We want to test the open-source OpenDroneMap software for processing the images captured with our drones.
-
-- _Probar un protocolo de procesamiento de imágenes. Necesitamos poder combinar varias imágenes capturadas en un mosaico ortorectificado que pueda luego procesarse o analizarse más a fondo según la pregunta de investigación (por ejemplo, para medir la vegetación o para mapear características del terreno). Queremos probar el software de código abierto OpenDroneMap para procesar las imágenes capturadas con nuestros drones._ 
-
-In the final workshop in Chile the complete toolkit will be tested in one of the sites previously identified by the community: an illegal quarry in the urban hill “El Sombrero” in the city of Melipilla.
-
-_En el taller final en Chile, el kit de herramientas completo será probado en uno de los sitios previamente identificados por la comunidad: una cantera ilegal en el cerro urbano "El Sombrero" en la ciudad de Melipilla._ 
-
-![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI 2019-01-30.jpg) 
+![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI_2019-01-30.jpg) 
 
 ## More info - _Más información_
 
