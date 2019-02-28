@@ -87,7 +87,7 @@ https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/
 
 We need a lot of help for this project! Luckily, there are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md) and the list of open issues.
 
-_¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo_ [CONTRIBUTING.md] (CONTRIBUTING.md) _y la lista de problemas abiertos (issues)._
+_¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo_ [CONTRIBUTING.md](CONTRIBUTING.md) _y la lista de problemas abiertos (issues)._
 
 ## Participation Guidelines - _Normas de participación_
 
