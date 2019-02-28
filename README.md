@@ -56,36 +56,28 @@ Through these modifications, the Flone ended up being quite different: bigger an
 _Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre)._
 
 
-![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI_2019-01-30.jpg) 
+![OVLI](imagenes/OVLI_2019-01-30.jpg) 
 
 
 ## More info - _Más información_
 
-You can find more info about how the project started in these stories:
-
-_Podés encontrar más información sobre cómo comenzó el proyecto en estas historias:_
+You can find more info about how the project started in these stories - _Podés encontrar más información sobre cómo comenzó el proyecto en estas historias:_
 
 https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e
 
 http://revista.ibict.br/liinc/article/view/4237 [in Spanish]
 
-And some photos and videos here:
-
-_Y algunas fotos y videos acá:_
+And some photos and videos here - _Y algunas fotos y videos acá:_
 
 Instagram: https://www.instagram.com/sombrerohill/ 
 
 Vimeo https://vimeo.com/user67511666 
 
-You can connect with us through our forum: 
-
-_Podés conectarte con nosotros a través del foro:_
+You can connect with us through our forum - _Podés conectarte con nosotros a través del foro:_
 
 http://foro.vuela.cc/
 
-And you can find out how to build your own OVLI with our assembly guide: 
-
-_Y aprender cómo construirte tu propio OVLI con la guía de construcción:_
+And you can find out how to build your own OVLI with our assembly guide - _Y aprender cómo construirte tu propio OVLI con la guía de construcción:_
 
 https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit?usp=sharing 
 
