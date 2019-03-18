@@ -9,9 +9,9 @@ With Vuela we will prototype a toolkit for open science with drones, to be equal
 
 _Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto ha sido posible gracias a fondos de NUMIES, Mozilla Science y PROCISUR._ 
 
-We believe our equal emphasis on the _[who](#who---qui%C3%A9n)_, the _how_ and the _what_ is the most unique and exciting aspect of this project. 
+We believe our equal emphasis on the _[who](#who---qui%C3%A9n)_, the _[how](#how---c%C3%B3mo)_ and the _[what](#what---qu%C3%A9)_ is the most unique and exciting aspect of this project. 
 
-_Creemos que nuestro énfasis por igual en el_ quién, _el_ cómo _y el_ qué _es la característica más única e interesante de este proyecto._
+_Creemos que nuestro énfasis por igual en el_ [quién](#who---qui%C3%A9n), _el_ [cómo](#how---c%C3%B3mo) _y el_ [qué](#what---qu%C3%A9) _es la característica más única e interesante de este proyecto._
 
 ### Who - _Quién_
 
@@ -59,6 +59,8 @@ _Con de estas modificaciones, el Flone terminó siendo bastante diferente: más 
 
 ![OVLI](https://github.com/vuelaendron/vuela/raw/master/imagenes/OVLI_2019-01-30.JPG)
       
+
+
 
 
 ## More info - _Más información_
