@@ -1,3 +1,7 @@
+---
+title: ¡Vuela!
+layout: default
+---
 
 # “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
