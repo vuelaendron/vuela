@@ -3,16 +3,13 @@ title: ¡Vuela!
 layout: default
 ---
 
-# “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
-
-![Vuela](https://github.com/vuelaendron/vuela/raw/master/imagenes/vuela_sticker.480x480.jpg) 
 
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
 
 _Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto ha sido posible gracias a fondos de NUMIES, Mozilla Science y PROCISUR._ 
 
-We believe our equal emphasis on the _who_, the _how_ and the _what_ is the most unique and exciting aspect of this project. 
+We believe our equal emphasis on the _[who](#who---qui%C3%A9n)_, the _how_ and the _what_ is the most unique and exciting aspect of this project. 
 
 _Creemos que nuestro énfasis por igual en el_ quién, _el_ cómo _y el_ qué _es la característica más única e interesante de este proyecto._
 
