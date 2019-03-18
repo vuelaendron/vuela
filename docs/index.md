@@ -2,7 +2,7 @@
 # “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
 
-![Vuela](https://github.com/vuelaendron/vuela/blob/master/imagenes/vuela_sticker.480x480.jpg) 
+![Vuela](https://github.com/vuelaendron/vuela/raw/master/imagenes/vuela_sticker.480x480.jpg) 
 
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
 
@@ -56,7 +56,7 @@ Through these modifications, the Flone ended up being quite different: bigger an
 _Con de estas modificaciones, el Flone terminó siendo bastante diferente: más grande y potente! Y lo llamamos OVLI (Objeto Volador LIbre)._
 
 
-![OVLI](https://github.com/vuelaendron/vuela/blob/master/imagenes/OVLI_2019-01-30.JPG)
+![OVLI](https://github.com/vuelaendron/vuela/raw/master/imagenes/OVLI_2019-01-30.JPG)
       
 
 
@@ -91,4 +91,4 @@ _¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de 
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to vuelaendron@gmail.com.
 
-_Este proyecto se adhiere a un [código de conducta] (CODE_OF_CONDUCT.md). Al participar, se espera que cumplas este código. Puedes informar conductas inadecuadas a vuelaendron@gmail.com._
+_Este proyecto se adhiere a un [código de conducta](CODE_OF_CONDUCT.md). Al participar, se espera que cumplas este código. Puedes informar conductas inadecuadas a vuelaendron@gmail.com._
