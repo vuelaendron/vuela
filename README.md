@@ -2,7 +2,7 @@
 # “¡Vuela!”
 # Open science with drones - _Ciencia libre con drones_ 
 
-![Vuela](https://github.com/vuelaendron/vuela/blob/master/imagenes/vuela_sticker.480x480.jpg) 
+![Vuela](https://github.com/vuelaendron/vuela/blob/master/imagenes/vuela_sticker.240x240.jpg) 
 
 With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
 
