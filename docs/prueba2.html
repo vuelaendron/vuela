@@ -8,7 +8,17 @@
         background-color: #000000;
         font-family: Georgia, serif;
       }
+
+      h1 {
+        color: #FFFFFF;
+        font-family: Georgia, serif;
+      }
       
+      p {
+        color: #FFFFFF;
+        font-family: Georgia, serif;
+      }
+
       table {
         color: #FFFFFF;
         background-color: #000000;
@@ -18,7 +28,6 @@
         width: 100%;
       }
       td, th {
-        text-align: right;
         vertical-align: top;
       }
       
@@ -26,17 +35,35 @@
   </head>
   
   <body>
-    
-    <table>
+ 
+    <h1>Galería de fotos</h1>
+
+    <table> <!-- Texto a la derecha -->
       <tr>
         <td style="width: 80%"> <!-- Imagen -->
           <img src="https://github.com/vuelaendron/vuela/raw/master/docs/images/image36.png" style='height: 100%; width: 100%; object-fit: contain'>
         </td>
-        <td style="width: 20%; padding: 8px"> <!-- Texto -->
+        <td style="width: 20%; padding: 8px; text-align: right;"> <!-- Texto -->
           With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
         </td>
       </tr>
     </table>
+    <br>
+    <br>
+
+    <table> <!-- Texto a la izquierda -->
+      <tr>
+        <td style="width: 20%; padding: 8px text-align: left;"> <!-- Texto -->
+          With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
+        </td>
+        <td style="width: 80%"> <!-- Imagen -->
+          <img src="https://github.com/vuelaendron/vuela/raw/master/docs/images/image36.png" style='height: 100%; width: 100%; object-fit: contain'>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <br>
     
+
   </body>
 </html>
