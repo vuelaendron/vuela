@@ -3,3 +3,5 @@ Esta carpeta contiene los archivos correspondientes al sitio web [vuela.cc](vuel
 El archivo [index.md](https://github.com/vuelaendron/vuela/blob/master/docs/index.md) es la página principal, mientras que los demás archivos .md y .html son subpáginas
 
 El archivo [default.html](https://github.com/vuelaendron/vuela/blob/master/docs/_layouts/default.html) en la carpeta _layouts contiene el diseño y la estructura de la página, y el logo y los links de la parte izquierda
+
+El archivo guia.html y la carpeta images están descargados del [google doc](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit) de la guía de construcción del OVLI
