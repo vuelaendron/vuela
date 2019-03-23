@@ -15,6 +15,6 @@
 
 ### Última versión de la guía (en Español):
 
-(https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit)
+[https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit)
 
 Documento abierto para realizarle mejoras, hacer sugerencias y comentarios
