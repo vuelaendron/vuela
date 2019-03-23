@@ -1,12 +1,12 @@
 # Open science with drones - _Ciencia libre con drones_ 
 
-With Vuela we will prototype a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which will be integrated in an open, iterative, and collaborative process. Vuela has been possible thanks to funding from NUMIES, Mozilla Science and PROCISUR.
+Since 2017 we have been prototyping a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which is integrated in an open, iterative, and collaborative process. Vuela has received funding from NUMIES, Mozilla Science, and PROCISUR.
 
-_Con Vuela pretendemos desarrollar un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que que se integrarán en un proceso abierto, iterativo y colaborativo. Este proyecto ha sido posible gracias a fondos de NUMIES, Mozilla Science y PROCISUR._ 
+_Desde 2017 hemos estado desarrollando un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas, o investigadores, y útil para estudios o relevamientos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software libre disponibles, los que se integran en un proceso abierto, iterativo y colaborativo. Este proyecto ha recibido fondos de NUMIES, Mozilla Science y PROCISUR._ 
 
-We believe our equal emphasis on the _[who](#who---qui%C3%A9n)_, the _[how](#how---c%C3%B3mo)_ and the _[what](#what---qu%C3%A9)_ is the most unique and exciting aspect of this project. 
+We believe our equal emphasis on the _[who](#who---qui%C3%A9n)_, the _[how](#how---c%C3%B3mo)_ and the _[what](#what---qu%C3%A9)_ is a distinctive aspect of the project. 
 
-_Creemos que nuestro énfasis por igual en el_ [quién](#who---qui%C3%A9n), _el_ [cómo](#how---c%C3%B3mo) _y el_ [qué](#what---qu%C3%A9) _es la característica más única e interesante de este proyecto._
+_Creemos que nuestro énfasis por igual en el_ [quién](#who---qui%C3%A9n), _el_ [cómo](#how---c%C3%B3mo) _y el_ [qué](#what---qu%C3%A9) _es un aspecto distintivo del proyecto._
 
 ### Who - _Quién_
 
