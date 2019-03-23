@@ -36,7 +36,6 @@ Between April and July 2018 we worked towards developing this new prototype in m
 
 _Entre abril y julio de 2018 trabajamos para desarrollar este nuevo prototipo en más de 10 talleres locales y presenciales, y también a través de un trabajo permanente en línea utilizando herramientas de colaboración como GitHub y Open Science Framework. También desarrollamos documentación en diferentes idiomas (inglés, español y criollo haitiano), y en un formato que sea fácil de modificar y traducir. Entre agosto de 2018 y enero de 2019 trabajamos para mejorar aún más el prototipo y ponerlo a prueba para investigación agrícola en 5 países de Sudamérica: Argentina, Brasil, Chile, Paraguay y Uruguay._ 
 
-
 ### What - _Qué_
 
 Drones can be a powerful tool for research in disciplines such as agriculture and environmental sciences, allowing the capture of aerial imaging with great flexibility. But open science requires open instruments and materials, and drones should not be an exception. 
