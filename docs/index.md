@@ -17,7 +17,7 @@ Conseguir instrumental científico no es fácil, menos aún para grupos tales co
 
 Nuestro proyecto apunta al desarrollo de herramientas científicas que puedan ser útiles a grupos o comunidades que aborden problemas locales, definidos localmente, y así fomentar su participación en la ciencia. Herramientas en línea y comunidades globales están actualmente ayudando a que las tecnologías abiertas sean accesibles, tanto como para quienes están dentro de instituciones ‘de conocimiento’ tradicionales, tales como universidades e institutos de investigación, como para quienes están fuera. Pero aún existen barreras importantes y con Vuela hemos querido abordar algunas de ellas. 
 
-Un problema que observamos es el énfasis en el desarrollo de nuevos instrumentos científicos (y en sus ‘inventores’) por sobre la adaptación de instrumentos ya existentes, lo que replica el modelo de proveedores y usuarios/clientes del hardware comercial. Las definiciones de código abierto se refieren a la capacidad de replicar, modificar, adaptar y redistribuir, pero estos pasos generalmente se dan por sentados y no son particularmente fomentados o estudiados. Queremos comprender qué es necesario para que grupos puedan replicar, modificar, y redistribuir hardware libre. Y si identificamos barreras, intentar abordarlas. Creemos que la ciencia abierta necesita un tipo diferente de ‘usuaria/o’ de herramientas científicas, que no solamente sea una usuaria sino también una colaboradora.
+Un problema que observamos es el énfasis en el desarrollo de nuevos instrumentos científicos (y en sus ‘inventores’) por sobre la adaptación de instrumentos ya existentes, lo que replica el modelo de proveedores y usuarios/clientes del hardware comercial cerrado. Las definiciones de código abierto se refieren a la capacidad de replicar, modificar, adaptar y redistribuir, pero estos pasos generalmente se dan por sentados y no son particularmente fomentados o estudiados. Queremos comprender qué es necesario para que grupos puedan replicar, modificar, y redistribuir hardware libre. Y si identificamos barreras, intentar abordarlas. Creemos que la ciencia abierta necesita un tipo diferente de ‘usuaria/o’ de herramientas científicas, que no solamente sea una usuaria sino también una colaboradora.
 
 Una de las principales barreras a la participación en estos procesos es el idioma. El inglés es el idioma dominante entre comunidades de tecnología abierta, limitando así el acceso en América Latina, donde solo una minoría, generalmente la más privilegiada, habla este idioma. Por este motivo es que la documentación de Vuela estará en español, haitiano criollo, portugués, francés e inglés. La diversidad lingüística en la región latinoamericana es tremenda ([420 lenguas habladas](https://www.unicef.es/prensa/unicef-presenta-el-atlas-sociolinguistico-de-pueblos-indigenas-en-america-latina)), así es que estamos conscientes de que este sólo es un muy pequeño aporte. 
 
@@ -117,15 +117,15 @@ Developing this drone prototype took the work of more than 100 people between Ju
 
 For more details about how the project started, read these stories:
 
-https://medium.com/@PazByC/chronicle-of-a-flight-foretold-6253cc9291ae 
+[Medium](https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e)
 
-http://revista.ibict.br/liinc/article/view/4237 (in Spanish)
+[Revista Liinc](http://revista.ibict.br/liinc/article/view/4237) (in Spanish)
 
-And some photos and videos here:
+Here some photos and videos:
 
-Instagram: https://www.instagram.com/sombrerohill/
+[Instagram](https://www.instagram.com/sombrerohill/)
 
-Vimeo https://vimeo.com/user67511666
+[Vimeo](https://vimeo.com/user67511666)
 
 You can connect with us through our forum: http://foro.vuela.cc/
 
