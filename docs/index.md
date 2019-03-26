@@ -118,7 +118,7 @@ Developing this drone prototype took the work of more than 100 people between Ju
 
 For more details about how the project started, read these stories:
 
-[Medium](https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e)
+[Medium](https://medium.com/@PazByC/chronicle-of-a-flight-foretold-6253cc9291ae)
 
 [Revista Liinc](http://revista.ibict.br/liinc/article/view/4237) (in Spanish)
 
