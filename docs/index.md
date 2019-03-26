@@ -1,5 +1,5 @@
 # Ciencia libre con drones - Open science with drones 
-#### [↓ English version below ↓](#english-version)
+#### [↓ English below ↓](#english-version)
 
 Desde 2017 hemos venido desarrollando un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas o investigadores, y útil para estudios o relevamientos de datos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software [libres](https://www.gnu.org/philosophy/free-sw.html) disponibles, los que se integran en un proceso abierto, iterativo y colaborativo. Este proyecto ha recibido fondos de NUMIES, Mozilla Science y PROCISUR.
 
