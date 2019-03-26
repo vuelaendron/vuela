@@ -68,7 +68,7 @@ Y aprender cómo construirte tu propio OVLI con la [guía de construcción](http
 Este proyecto se adhiere a un [código de conducta](../CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol). Al participar, se espera que cumplas este código. Puedes hacer preguntas o informar conductas inadecuadas a vuelaendron@gmail.com.
 ---
 
-#### _English version_
+#### _English_
 
 # Open science with drones
 
