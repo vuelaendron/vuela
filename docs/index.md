@@ -9,7 +9,7 @@ Enfatizar de igual manera el **[quién](#qui%C3%A9nes)**, el **[por qué](#por-q
 
 Creemos que personas sin experiencia técnica previa pueden y deben trabajar codo a codo, y como iguales, con quienes poseen experiencia o entrenamiento oficial. Este tipo de colaboración tiene el poder de promover los objetivos de democratizar la ciencia y la tecnología, pero también de mejorar la relevancia, la efectividad y el impacto de éstas en la sociedad.
 
-Los miembros de nuestra ‘tripulación’ son aficionadas, activistas de la sociedad civil, investigadores, vecinos, estudiantes, desarrolladoras, y en los talleres hemos hablado español, criollo haitiano, inglés, francés y portugués. Damos la bienvenida y alentamos la participación de todas y todos, sin importar cómo alguien se identifique o cómo la/lo perciban los demás, siempre y cuando interactúen de manera constructiva y se adhieran al [código de conducta](https://github.com/vuelaendron/vuela/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol).
+Los miembros de nuestra ‘tripulación’ son aficionadas, activistas de la sociedad civil, investigadores, vecinos, estudiantes, desarrolladoras, y en los talleres hemos hablado español, criollo haitiano, inglés, francés y portugués. Damos la bienvenida y alentamos la participación de todas y todos, sin importar cómo alguien se identifique o cómo la/lo perciban los demás, siempre y cuando interactúen de manera constructiva y se adhieran al [código de conducta](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol).
 
 ### Por qué
 
@@ -61,11 +61,11 @@ Y aprender cómo construirte tu propio OVLI con la [guía de construcción](http
 
 ### Cómo contribuir
 
-¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo [CONTRIBUTING.md](https://github.com/vuelaendron/vuela/CONTRIBUTING.md#c%C3%B3mo-contribuir---espa%C3%91ol) y la [lista de problemas abiertos (issues)](https://github.com/vuelaendron/vuela/issues).
+¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo [CONTRIBUTING.md](https://github.com/vuelaendron/vuela/blob/master/CONTRIBUTING.md#c%C3%B3mo-contribuir---espa%C3%91ol) y la [lista de problemas abiertos (issues)](https://github.com/vuelaendron/vuela/issues).
 
 ### Normas de participación
 
-Este proyecto se adhiere a un [código de conducta](https://github.com/vuelaendron/vuela/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol). Al participar, se espera que cumplas este código. Puedes hacer preguntas o informar conductas inadecuadas a vuelaendron@gmail.com.
+Este proyecto se adhiere a un [código de conducta](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol). Al participar, se espera que cumplas este código. Puedes hacer preguntas o informar conductas inadecuadas a vuelaendron@gmail.com.
 
 ---
 
@@ -81,7 +81,7 @@ Our equal emphasis on the **[who](#who)**, the **[why](#why)** and the **[how](#
 
 We believe people with no previous technical experience can and should work side by side, and as equals, with those with official training or experience. This type of collaboration has the power of furthering the goals of democratizing science and technology, but also of improving the relevance, effectiveness, and impact of open technologies in society. 
 
-The members of our ‘crew’ are hobbyists, civil society activists, researchers, neighbours, students, developers, and in our workshops we have spoken Spanish, Haitian Créole, English, French and Portuguese. We encourage every type of person to participate, no matter how he/she identifies herself or how others perceive her. We welcome everyone as long as they interact constructively with our community and adhere to the [code of conduct](https://github.com/vuelaendron/vuela/CODE_OF_CONDUCT.md#vuela-code-of-conduct---english).
+The members of our ‘crew’ are hobbyists, civil society activists, researchers, neighbours, students, developers, and in our workshops we have spoken Spanish, Haitian Créole, English, French and Portuguese. We encourage every type of person to participate, no matter how he/she identifies herself or how others perceive her. We welcome everyone as long as they interact constructively with our community and adhere to the [code of conduct](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#vuela-code-of-conduct---english).
 
 ### Why
 
@@ -134,8 +134,8 @@ And you can find out how to build your own OVLI with our [assembly guide](https:
 
 ### Contributing
 
-We need a lot of help for this project! Luckily, there are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](https://github.com/vuelaendron/vuela/CONTRIBUTING.md#contributing---english) and the [list of open issues](https://github.com/vuelaendron/vuela/issues).
+We need a lot of help for this project! Luckily, there are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](https://github.com/vuelaendron/vuela/blob/master/CONTRIBUTING.md#contributing---english) and the [list of open issues](https://github.com/vuelaendron/vuela/issues).
 
 ### Participation Guidelines
 
-This project adheres to a [code of conduct](https://github.com/vuelaendron/vuela/CODE_OF_CONDUCT.md#vuela-code-of-conduct---english). By participating, you are expected to uphold this code. Please report unacceptable behavior to vuelaendron@gmail.com.
+This project adheres to a [code of conduct](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#vuela-code-of-conduct---english). By participating, you are expected to uphold this code. Please report unacceptable behavior to vuelaendron@gmail.com.
