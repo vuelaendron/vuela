@@ -45,15 +45,15 @@ Entre junio de 2017 y enero de 2019 trabajamos con más de 100 personas para arr
 
 Puedes encontrar más información sobre cómo comenzó el proyecto en estas historias:
 
-https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e
+[Medium](https://medium.com/@PazByC/cr%C3%B3nica-de-un-vuelo-anunciado-fdf3062b1b3e)
 
-http://revista.ibict.br/liinc/article/view/4237
+[Revista Liinc](http://revista.ibict.br/liinc/article/view/4237)
 
 Y algunas fotos y videos acá:
 
-Instagram: https://www.instagram.com/sombrerohill/
+[Instagram](https://www.instagram.com/sombrerohill/)
 
-Vimeo https://vimeo.com/user67511666
+[Vimeo](https://vimeo.com/user67511666)
 
 Podés conectarte con nosotros a través del foro: http://foro.vuela.cc/
 
@@ -66,6 +66,7 @@ Y aprender cómo construirte tu propio OVLI con la [guía de construcción](http
 ### Normas de participación
 
 Este proyecto se adhiere a un [código de conducta](../CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol). Al participar, se espera que cumplas este código. Puedes hacer preguntas o informar conductas inadecuadas a vuelaendron@gmail.com.
+---
 
 #### _English version_
 
