@@ -1,15 +1,15 @@
-### OVLI *assembly* guide - Guía de *construcción* del OVLI
+﻿### OVLI *assembly* guide - Guía de *construcción* del OVLI
 
 
-[Español](https://vuelaendron.github.io/vuela/guia-es.html) (versión original)
+[Español](https://vuelaendron.github.io/vuela/guia-es/guia-es.html) (versión original)
 
-[English](https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es.html) (automatic translation)
+[English](https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es%2Fguia-es.html) (automatic translation)
 
-[Português](https://translate.google.com/translate?sl=es&tl=pt&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es.html) (tradução automática)
+[Português](https://translate.google.com/translate?sl=es&tl=pt&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es%2Fguia-es.html) (tradução automática)
 
-[Kreyòl](https://translate.google.com/translate?sl=es&tl=ht&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es.html) (tradiksyon otomatik)
+[Kreyòl](https://translate.google.com/translate?sl=es&tl=ht&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es%2Fguia-es.html) (tradiksyon otomatik)
 
-[Français](https://translate.google.com/translate?sl=es&tl=fr&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es.html) (traduction automatique)
+[Français](https://translate.google.com/translate?sl=es&tl=fr&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-es%2Fguia-es.html) (traduction automatique)
 
 
 
@@ -22,15 +22,15 @@
 ### OVLI *usage* guide - Guía de *uso* del OVLI
 
 
-[Español](https://vuelaendron.github.io/vuela/guia-uso-es.html) (versión original)
+[Español](https://vuelaendron.github.io/vuela/guia-uso-es/guia-uso-es.html) (versión original)
 
-[English](https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es.html) (automatic translation)
+[English](https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es%2Fguia-uso-es.html) (automatic translation)
 
-[Português](https://translate.google.com/translate?sl=es&tl=pt&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es.html) (tradução automática)
+[Português](https://translate.google.com/translate?sl=es&tl=pt&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es%2Fguia-uso-es.html) (tradução automática)
 
-[Kreyòl](https://translate.google.com/translate?sl=es&tl=ht&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es.html) (tradiksyon otomatik)
+[Kreyòl](https://translate.google.com/translate?sl=es&tl=ht&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es%2Fguia-uso-es.html) (tradiksyon otomatik)
 
-[Français](https://translate.google.com/translate?sl=es&tl=fr&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es.html) (traduction automatique)
+[Français](https://translate.google.com/translate?sl=es&tl=fr&u=https%3A%2F%2Fvuelaendron.github.io%2Fvuela%2Fguia-uso-es%2Fguia-uso-es.html) (traduction automatique)
 
 
 
