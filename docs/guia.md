@@ -15,9 +15,7 @@
 
 ### Última versión de la guía (en Español):
 
-[https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit)
-
-Documento abierto para realizarle mejoras, hacer sugerencias y comentarios
+[https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/edit) (Documento abierto para realizarle mejoras, hacer sugerencias y comentarios)
 
 - - -
 
@@ -38,6 +36,4 @@ Documento abierto para realizarle mejoras, hacer sugerencias y comentarios
 
 ### Última versión de la guía (en Español):
 
-[https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing)
-
-Documento abierto para realizarle mejoras, hacer sugerencias y comentarios
+[https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing) (Documento abierto para realizarle mejoras, hacer sugerencias y comentarios)
