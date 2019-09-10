@@ -154,7 +154,7 @@ Tenga en cuenta que muchas formas de acoso no se parecen al abuso físico o verb
 
 ## Cómo comunicar un problema
 
-**En persona - **** Organizadores Vuela****:** Si estás en un evento con un oficial de seguridad designado, no dude en acercarse a ellos o a un organizador.
+**En persona - ****Organizadores Vuela****:** Si estás en un evento con un oficial de seguridad designado, no dude en acercarse a ellos o a un organizador.
 
 **Por correo electrónico - ****Organizadores Vuela****:** Si experimentas algo o es testigo, comuníquese por correo electrónico con los organizadores a vuelaendron@gmail.com. 
 
