@@ -12,13 +12,15 @@ Vuela es equitativo. La equidad reconoce el hecho de que no todo el mundo comien
 
 Este Código de Conducta se aplica a todos los espacios de Vuela, tanto en línea como en persona.
 
+Los espacios de Vuela para los que aplica este Código abarcan tanto talleres y sesiones de trabajo o interacción offline y online, como también situaciones relacionadas que ocurran fuera del horario y espacio físico de las actividades formales. Por ejemplo, un almuerzo o cena con participantes. En otro ejemplo, si un participante se encuentra con otro en la calle y uno de ellos agrede verbalmente al otro, aquella también será considerada como una violación del Código.
+
 Tomamos muy en serio las violaciones al Código de Conducta. Por lo tanto, quienes violen este Código pueden ver afectada su capacidad de participar en Vuela. Si tiene alguna pregunta respecto de las razones de este Código y/o no está seguro sobre algún aspecto del mismo, envíe un correo electrónico a vuelaendron@gmail.com y le proporcionaremos una aclaración.
 
  
 
 ## Cómo funciona
 
-Este Código es un esfuerzo por mantener un espacio respetuoso para todos y para discutir qué podría pasar si ese espacio se viera comprometido. Por favor lea las pautas de comportamiento de nuestro proyecto a continuación y tenlas presentes cuando participe de las actividades. 
+Este Código es un esfuerzo por mantener un espacio respetuoso para todas y todos y para discutir qué podría pasar si ese espacio se viera comprometido. Por favor lea las pautas de comportamiento de nuestro proyecto a continuación y tenlas presentes cuando participe de las actividades. 
 
 ### Escuchamos
 
@@ -152,9 +154,9 @@ Tenga en cuenta que muchas formas de acoso no se parecen al abuso físico o verb
 
 ## Cómo comunicar un problema
 
-**En persona**** - Organizadores Vuela: **Si usted está en un evento con un oficial de seguridad designado, no dude en acercarse a ellos o a un organizador.
+**En persona - **** Organizadores Vuela****:** Si estás en un evento con un oficial de seguridad designado, no dude en acercarse a ellos o a un organizador.
 
-**Por correo electrónico - ****Organizadores Vuela****:** Si experimenta algo o es testigo, comuníquese por correo electrónico con los organizadores a vuelaendron@gmail.com. 
+**Por correo electrónico - ****Organizadores Vuela****:** Si experimentas algo o es testigo, comuníquese por correo electrónico con los organizadores a vuelaendron@gmail.com. 
 
 **Las denuncias ****nunca debe****n**** hacerse a través de ****redes**** sociales.**
 
@@ -179,23 +181,17 @@ Este documento está basado en el Código de Conducta de la comunidad GOSH ([htt
 
 We strive to make the Vuela project open to all, regardless of academic, working or professional background, identity or gender expression, sexual orientation, ability, physical appearance, body size, ethnicity, age, economic origin, country of origin, language , employment, religion and other differences. Because we have different origins, it is important to have the intention of providing respectful and equitable spaces -both online and in person- to unite and engage with a constructive and respectful discourse. We have peaceful and non-harmful purposes.
 
- 
-
 Vuela is equitable. Equity recognizes the fact that not everyone starts from the same position and that treating everyone in the same way could maintain the disparity with which they started. For this reason, we seek to intentionally reduce the barriers to access to create, use and learn from science and technology.
-
- 
 
 This Code of Conduct applies to all Vuela spaces, both online and in person.
 
- 
+The Vuela spaces for which this Code applies involve formal activities such as workshops or work sessions online and offline, but also for related situations. For example, a lunch or dinner with Vuela participants that takes place outside working hours and/or at another venue. Or, in another example, if a participant runs into another on the street and one verbally abuses the other, that will also be considered a Code violation. 
 
 We take violations of the Code of Conduct very seriously. Therefore, those who violate this Code may be affected their ability to participate in Vuela. If you have any questions regarding our commitment to this Code and/or you are not sure about any aspect of it, please send an email to vuelaendron@gmail.com and we will provide clarification.
 
  
-
 ## How it works
 
- 
 
 This Code is an effort to maintain a respectful space for all and to discuss what could happen if that space were compromised. Please read the behavior guidelines of our project below and keep them in mind when participating in the activities.
 
