@@ -55,7 +55,7 @@ Y algunas fotos y videos acá:
 
 [Vimeo](https://vimeo.com/user67511666)
 
-Podés conectarte con nosotros a través del foro: http://foro.vuela.cc/
+Podés conectarte con nosotros a través del foro: http://foro.vuela.cc/ o por email a vuelaendron@gmail.com
 
 Y aprender cómo construirte tu propio OVLI con la [guía de construcción](https://vuelaendron.github.io/vuela/guia).
 
@@ -130,7 +130,7 @@ Here some photos and videos:
 
 [Vimeo](https://vimeo.com/user67511666)
 
-You can connect with us through our forum: http://foro.vuela.cc/
+You can connect with us through our forum: http://foro.vuela.cc/ or sending an email to vuelaendron@gmail.com
 
 And you can find out how to build your own OVLI with our [assembly guide](https://vuelaendron.github.io/vuela/guia).
 
