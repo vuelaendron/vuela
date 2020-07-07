@@ -26,4 +26,4 @@
 
 #### Documento abierto para realizarle mejoras, hacer sugerencias y comentarios (en Español):
 
-[https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing) (Documento abierto para realizarle mejoras, hacer sugerencias y comentarios)
+[https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/edit?usp=sharing)
