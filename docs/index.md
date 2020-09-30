@@ -1,7 +1,7 @@
 # Ciencia libre con drones - Open science with drones 
 #### [↓ English below ↓](#english)
 
-Desde 2017 hemos venido desarrollando un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas o investigadores, y útil para estudios o relevamientos de datos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software [libres](https://www.gnu.org/philosophy/free-sw.html) disponibles, los que se integran en un proceso abierto, iterativo y colaborativo. Este proyecto ha recibido fondos de NUMIES, Mozilla Science y PROCISUR.
+Desde 2017 hemos venido desarrollando un prototipo de kit de herramientas para hacer ciencia abierta con drones, accesible por igual para comunidades marginales, activistas o investigadores, y útil para estudios o relevamientos de datos en los que esta tecnología ya se utiliza pero está dominada por herramientas de código cerrado. Vuela se basa en hardware y software [libres](https://www.gnu.org/philosophy/free-sw.html) disponibles, los que se integran en un proceso abierto, iterativo y colaborativo. Este proyecto ha recibido fondos de Knowledge-Culture-Ecologies/NUMIES, Mozilla Science, PROCISUR y Shuttleworth Foundation.
 
 Enfatizar de igual manera el **[quién](#qui%C3%A9nes)**, el **[por qué](#por-qu%C3%A9)**, y el **[cómo](#c%C3%B3mo)**, tanto como el **[qué](#qu%C3%A9)**, es un aspecto distintivo del proyecto.
 
@@ -73,7 +73,7 @@ Este proyecto se adhiere a un [código de conducta](https://github.com/vuelaendr
 
 # Open science with drones
 
-Since 2017 we have been prototyping a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which is integrated in an open, iterative, and collaborative process. Vuela has received funding from NUMIES, Mozilla Science, and PROCISUR. 
+Since 2017 we have been prototyping a toolkit for open science with drones, to be equally accessible to marginal communities, activists or researchers, and useful for studies or measurements for which this technology is already used but is dominated by closed source tools. This project builds upon available open source hardware and software, which is integrated in an open, iterative, and collaborative process. Vuela has received funding from Knowledge-Culture-Ecologies/NUMIES, Mozilla Science, PROCISUR, and Shuttleworth Foundation. 
 
 Our equal emphasis on the **[who](#who)**, the **[why](#why)** and the **[how](#how)** as much as the **[what](#what)** is a distinctive aspect of the project.
 
