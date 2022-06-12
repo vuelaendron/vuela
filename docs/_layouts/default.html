@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ "/" | absolute_url }}"><img src="https://github.com/vuelaendron/vuela/raw/master/imagenes/vuela_sticker.480x480.jpg" width="240" height="240" alt="Vuela" /></a>
+        <a href="{{ "/" | absolute_url }}"><img src="https://github.com/vuelaendron/vuela/raw/master/docs/img/logo_vuela_nuevo.jpg" width="240" height="160" alt="Vuela" /></a>
         <p></p>
         <p></p>
         <p class="view"><a href="https://vuelaendron.github.io/vuela/index">Acerca de ¡Vuela! <small>About ¡Vuela!</small></a></p>
@@ -50,15 +50,6 @@
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
+
   </body>
 </html>
