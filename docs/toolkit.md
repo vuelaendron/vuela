@@ -19,26 +19,25 @@ The toolkit documentation includes: a “usage guide”, with instructions for f
 An “assembly guide” is also available, that includes a step-by-step guide for building the OVLI drone, setting up and configuring the hardware components, and installing the software. Once you have all parts, it should take you just a few days to have your open hardware / open software toolkit ready.
 
 <div align="center">
-
-**_Hardware_**
-
-Drone ([OVLI drone](ovli.md))
-
-Camera (Canon brand camera compatible with CHDK software)
-
-Radio transmitter (generic 6-channel radio transmitter)
-
-Batteries and charger (generic 3-cell lithium-polymer battery and balance charger)
-
-Computer (generic PC with Windows operating system)
-
-Smartphone (generic smartphone with Android operating system)
+  
+| Hardware |
+| :-: |
+|Drone ([OVLI drone](ovli.md))|
+|Camera (Canon brand camera compatible with CHDK software)|
+|Radio transmitter (generic 6-channel radio transmitter)|
+|Batteries and charger (generic 3-cell lithium-polymer battery and balance charger)|
+|Computer (generic PC with Windows operating system)|
+|Smartphone (generic smartphone with Android operating system)|
 
 ![hardware](img/hardware.png)
 
+</div>
 
-**_Software_**
+<div align="center">
+### Software
+</div>
 
+<div align="center">
 GPS recorder ([GPS Logger](https://www.basicairdata.eu/projects/android/android-gps-logger/))
 
 Drone ground station ([Mission Planner](https://ardupilot.org/planner/))
@@ -56,7 +55,7 @@ Data management ([Bitácora](https://github.com/gpereyrairujo/bitacora))
 ![software](img/software.png)
 
 
-**_Documentation_**
+### Documentation
 
 Toolkit assembly guide ( [web](https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub) | [pdf](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf) )
 
