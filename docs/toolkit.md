@@ -4,16 +4,19 @@ Drones can be a powerful tool for research in disciplines such as agriculture an
 
 ![aerial images](img/aerial_data.png)
 
+&nbsp;
 ## What you can do with the OSDT
 
 The OSDT is a set of open source hardware and software tools and also guides and protocols to enable the user to perform all the necessary tasks to obtain aerial data:
 
 ![tasks](img/tasks.png)
 
+&nbsp;
 ## How to use the toolkit
 
 The toolkit documentation includes: a “usage guide”, with instructions for flying the drone, programming an autonomous mission, programming the camera, and image processing. 
 
+&nbsp;
 ## Build your own toolkit
 
 An “assembly guide” is also available, that includes a step-by-step guide for building the OVLI drone, setting up and configuring the hardware components, and installing the software. Once you have all parts, it should take you just a few days to have your open hardware / open software toolkit ready.
@@ -82,11 +85,11 @@ Toolkit assembly guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vT
                          <a href="https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf">pdf</a> )
 </p>
 <p align="center">
-Toolkit assembly guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
+Toolkit usage guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
                          <a href="https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf">pdf</a> )
 </p>
 
-
+&nbsp;
 ## Open source is ❤
 
 The OVLI drone is open hardware, which means you are free to modify it. An easy way to make you own version of the OVLI is to modify the frame, which is assembled from MDF (Medium Density Fibreboard) cut with a laser cutter according to a design file, which can be edited to modify the drone structure (using the open source software Inkscape). It is also possible make your own version of the OVLI by changing the motors, propellers, etc. 
