@@ -20,22 +20,28 @@
         <p class="view"><a href="https://vuelaendron.github.io/vuela/index">Acerca de ¡Vuela! <small>About ¡Vuela!</small></a></p>
         <p class="view"><a href="https://vuelaendron.github.io/vuela/guia">Guías del dron OVLI <small>OVLI drone guides</small><small>Guias do drone OVLI</small><small>Gid dwòn OVLI</small></a></p>
 
+        <p class="view"><a href="{{ "/" | absolute_url }}">Con el apoyo de:<small>Supported by:</small>
+        <img src="https://github.com/vuelaendron/vuela/raw/master/imagenes/logos_financiamiento.png" width="240" height="75" alt="Shuttleworth | PROCISUR | Mozilla | KCE" /></a></p>
+    
+        <p class="view"><a href="https://github.com/vuelaendron/vuela">Repositorio en GitHub <small>GitHub repository</small></a></p>
+        <p class="view"><a href="http://foro.vuela.cc/">Foro <small>Forum</small></a></p>
+        <p class="view"><a href="https://www.instagram.com/sombrerohill/"><small>Instagram</small></a></p>
+        <p class="view"><a href="https://vimeo.com/user67511666"><small>Vimeo</small></a></p>
+
       </header>
       
       <section>
 
       {{ content }}
         
+      {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
         <p><br><br></p>
         <hr>
-
-        <p><small>Con el apoyo de: | <i>Supported by:</i></small></p>
-        <p><img src="https://github.com/vuelaendron/vuela/raw/master/imagenes/logos_financiamiento.png" width="240" height="75" alt="Shuttleworth | PROCISUR | Mozilla | KCE" /></a></p>
-      
-        <p><small>Este sitio es de código abierto. {% github_edit_link "Mejora esta página" %}.</small><br>
-        <small><i>This site is open source. {% github_edit_link "Improve this page" %}.</i></small></p>
+        <p><small>This site is open source. {% github_edit_link "Improve this page" %}.</small><br>
+        <small><i>Este sitio es de código abierto. {% github_edit_link "Mejora esta página" %}.</></small></p>
       </div>
+      {% endif %}
  
       </section>
       
