@@ -18,7 +18,7 @@ The toolkit documentation includes: a “usage guide”, with instructions for f
 
 An “assembly guide” is also available, that includes a step-by-step guide for building the OVLI drone, setting up and configuring the hardware components, and installing the software. Once you have all parts, it should take you just a few days to have your open hardware / open software toolkit ready.
 
-<center>
+<div align="center">
 
 **_Hardware_**
 
@@ -62,7 +62,7 @@ Toolkit assembly guide ( [web](https://docs.google.com/document/d/e/2PACX-1vTXea
 
 Toolkit usage guide ( [web](https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub) | [pdf](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf) )
 
-</center>
+</div>
 
 
 ## Open source is ❤
