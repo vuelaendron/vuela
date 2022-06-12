@@ -20,7 +20,7 @@ An “assembly guide” is also available, that includes a step-by-step guide fo
 
 <center>
 
-### Hardware
+**_Hardware_**
 
 Drone ([OVLI drone](ovli.md))
 
@@ -37,7 +37,7 @@ Smartphone (generic smartphone with Android operating system)
 ![hardware](img/hardware.png)
 
 
-### Software
+**_Software_**
 
 GPS recorder ([GPS Logger](https://www.basicairdata.eu/projects/android/android-gps-logger/))
 
@@ -56,7 +56,7 @@ Data management ([Bitácora](https://github.com/gpereyrairujo/bitacora))
 ![software](img/software.png)
 
 
-### Documentation
+**_Documentation_**
 
 Toolkit assembly guide ( [web](https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub) | [pdf](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf) )
 
