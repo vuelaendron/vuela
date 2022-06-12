@@ -18,50 +18,73 @@ The toolkit documentation includes: a “usage guide”, with instructions for f
 
 An “assembly guide” is also available, that includes a step-by-step guide for building the OVLI drone, setting up and configuring the hardware components, and installing the software. Once you have all parts, it should take you just a few days to have your open hardware / open software toolkit ready.
 
-<div align="center">
-  
-| Hardware |
-| :-: |
-|Drone ([OVLI drone](ovli.md))|
-|Camera (Canon brand camera compatible with CHDK software)|
-|Radio transmitter (generic 6-channel radio transmitter)|
-|Batteries and charger (generic 3-cell lithium-polymer battery and balance charger)|
-|Computer (generic PC with Windows operating system)|
-|Smartphone (generic smartphone with Android operating system)|
+<h3 align="center">
+Hardware
+</h3>
 
-![hardware](img/hardware.png)
+<p align="center">
+Drone (<a href="http://vuela.cc/ovli">OVLI drone</a>)
+</p>
+<p align="center"> 
+Camera (Canon brand camera compatible with CHDK software)
+</p>
+<p align="center"> 
+Radio transmitter (generic 6-channel radio transmitter)
+</p>
+<p align="center"> 
+Batteries and charger (generic 3-cell lithium-polymer battery and balance charger)
+</p>
+<p align="center"> 
+Computer (generic PC with Windows operating system)
+</p>
+<p align="center"> 
+Smartphone (generic smartphone with Android operating system)
+</p>
+<p align="center"> 
+<img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/hardware.png" alt = "Hardware">
+</p>
 
-</div>
+<h3 align="center">
+Software
+</h3>
 
-<div align="center">
-### Software
-</div>
+<p align="center">
+GPS recorder (<a href="https://www.basicairdata.eu/projects/android/android-gps-logger/">GPS Logger</a>)
+</p>
+<p align="center">
+Drone ground station (<a href="https://ardupilot.org/planner/">Mission Planner</a>)
+</p>
+<p align="center">
+Camera control (<a href="https://chdk.fandom.com/wiki/CHDK">CHDK</a>)
+</p>
+<p align="center">
+Drone autopilot (<a href="https://ardupilot.org/copter/">ArduCopter</a>)
+</p>
+<p align="center">
+Image processing (<a href="https://www.opendronemap.org/">OpenDroneMap</a>)
+</p>
+<p align="center">
+Orthomosaic processing and analysis (<a href="https://qgis.org/">QGIS</a>)
+</p>
+<p align="center">
+Data management (<a href="https://github.com/gpereyrairujo/bitacora">Bitácora</a>)
+</p>
+<p align="center"> 
+<img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/software.png" alt = "Software">
+</p>
 
-<div align="center">
-GPS recorder ([GPS Logger](https://www.basicairdata.eu/projects/android/android-gps-logger/))
+<h3 align="center">
+Documentation
+</h3>
 
-Drone ground station ([Mission Planner](https://ardupilot.org/planner/))
-
-Camera control ([CHDK](https://chdk.fandom.com/wiki/CHDK))
-
-Drone autopilot ([ArduCopter](https://ardupilot.org/copter/))
-
-Image processing ([OpenDroneMap](https://www.opendronemap.org/))
-
-Orthomosaic processing and analysis ([QGIS](https://qgis.org/))
-
-Data management ([Bitácora](https://github.com/gpereyrairujo/bitacora))
-
-![software](img/software.png)
-
-
-### Documentation
-
-Toolkit assembly guide ( [web](https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub) | [pdf](https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf) )
-
-Toolkit usage guide ( [web](https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub) | [pdf](https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf) )
-
-</div>
+<p align="center">
+Toolkit assembly guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub">web</a> | 
+                         <a href="https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf">pdf</a> )
+</p>
+<p align="center">
+Toolkit assembly guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
+                         <a href="https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf">pdf</a> )
+</p>
 
 
 ## Open source is ❤
