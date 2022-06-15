@@ -4,11 +4,19 @@ Desde 2017 hemos venido desarrollando un prototipo de kit de herramientas para h
 
 Enfatizar de igual manera el **[quién](#qui%C3%A9nes)**, el **[por qué](#por-qu%C3%A9)**, y el **[cómo](#c%C3%B3mo)**, tanto como el **[qué](#qu%C3%A9)**, es un aspecto distintivo del proyecto.
 
+&nbsp;
+
 ### Quiénes
 
 Creemos que personas sin experiencia técnica previa pueden y deben trabajar codo a codo, y como iguales, con quienes poseen experiencia o entrenamiento oficial. Este tipo de colaboración tiene el poder de promover los objetivos de democratizar la ciencia y la tecnología, pero también de mejorar la relevancia, la efectividad y el impacto de éstas en la sociedad.
 
 Los miembros de nuestra ‘tripulación’ son aficionadas, activistas de la sociedad civil, investigadores, vecinos, estudiantes, desarrolladoras, y en los talleres hemos hablado español, criollo haitiano, inglés, francés y portugués. Damos la bienvenida y alentamos la participación de todas y todos, sin importar cómo alguien se identifique o cómo la/lo perciban los demás, siempre y cuando interactúen de manera constructiva y se adhieran al [código de conducta](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol).
+
+&nbsp;
+
+![Quiénes](img/quien.jpg)
+
+&nbsp;
 
 ### Por qué
 
@@ -24,6 +32,12 @@ Otro tipo de barreras observadas son aquellas de tipo cultural. El intercambio c
 
 Link a una [lista de lecturas](https://docs.google.com/document/d/1k4ZBxsfz7rYyhF1m0xfVF_XYalut5TSyiolKbZMcTcc/edit#) (en Inglés) sobre decolonialismo.
 
+&nbsp;
+
+![Kreyol](img/kreyol.png)
+
+&nbsp;
+
 ### Qué
 
 Los drones pueden ser una poderosa herramienta para la investigación en disciplinas como la agricultura y las ciencias ambientales, permitiendo la captura de imágenes aéreas con gran flexibilidad. Pero la ciencia abierta requiere instrumentos y materiales abiertos, y los drones no deberían ser una excepción. Con nuestro ‘por qué’ en mente, en lugar de desarrollar una herramienta desde cero, comenzamos este proyecto replicando, probando e identificando posibles mejoras para un dron de código abierto ya disponible llamado ‘Flone’ ([flone.cc](http://flone.cc/)), en una serie de talleres abiertos y colaborativos que comenzamos en 2017. 
@@ -32,6 +46,12 @@ En los talleres fuimos identificando varias posibles mejoras, modificaciones y a
 
 Con estas modificaciones el drone terminó siendo bastante diferente al Flone original, y lo llamamos OVLI (Objeto Volador LIbre). Además, trabajamos en identificar otras herramientas de hardware y software libre necesarias, de forma de contar con una ‘caja de herramientas’ completa.
 
+&nbsp;
+
+![Flone - OVLI](img/flone-ovli.png)
+
+&nbsp;
+
 ### Cómo
 
 Hemos querido desarrollar Vuela a través de un proceso iterativo y colaborativo. 
@@ -39,6 +59,12 @@ Hemos querido desarrollar Vuela a través de un proceso iterativo y colaborativo
 El kit ha sido construido con diversas personas: estudiantes secundarios, científicos tradicionales afiliados a instituciones académicas, periodistas, miembros de comunidades sin formación académica o tecnológica, científicas trabajando en agricultura, niños, adultos, personas con y sin experiencia fabricando o utilizando drones. Inicialmente, e idealmente, queríamos tener en el grupo a personas que ya estuvieran abordando problemas locales, para los cuales los drones podrían ser útiles. Hasta ahora, sin embargo, sólo un grupo trabajó con necesidades específicas en mente: los investigadores en agricultura.  
 
 Entre junio de 2017 y enero de 2019 trabajamos con más de 100 personas para arribar a este prototipo en más de 30 talleres locales y presenciales, y también a través de un trabajo permanente en línea utilizando herramientas de colaboración como [GitHub](https://github.com/vuelaendron/vuela). Estamos además desarrollando documentación en diferentes idiomas (inglés, español y criollo haitiano), y en un formato que sea fácil de modificar y traducir. Entre agosto de 2018 y enero de 2019 trabajamos para mejorar el prototipo y ponerlo a prueba para investigación agrícola en 5 países de Sudamérica: Argentina, Brasil, Chile, Paraguay y Uruguay.
+
+&nbsp;
+
+<video src="https://github.com/vuelaendron/vuela/blob/master/docs/img/talleres_vuela.mp4?raw=true" controls="controls" style="max-width: 480px"></video>
+
+&nbsp;
 
 ### Más información
 
