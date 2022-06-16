@@ -1,47 +1,47 @@
 # Open Science Drone Toolkit
 
-Drones can be a powerful tool for research in disciplines such as agriculture and environmental sciences, allowing the capture of high-resolution aerial imaging with great speed and flexibility. For a typical use, the drone needs to be able to be reliably positioned over the studied terrain and capture images that can be later processed to get a high quality image of the surveyed area and extract useful data. Although there are already many open source hardware and software tools that can be used in each of the individual steps of this process, our question was whether it was possible to perform all these steps using open source tools. We attemped to answer this question by collecting, curating, organizing and testing a comprehensive set of open source tools for aerial data capture for research purposes. The result of these actions is the Open Science Drone Toolkit (OSDT).
+Los drones pueden ser una poderosa herramienta para la investigación en disciplinas como la agricultura y las ciencias ambientales, permitiendo la captura de imágenes aéreas de alta resolución con gran velocidad y flexibilidad. Para un uso típico, el dron debe poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes, que luego se pueden procesar para obtener una imagen de alta calidad del área estudiada y extraer datos útiles. Aunque ya existen muchas herramientas de hardware y software de código abierto que se pueden utilizar en cada uno de los pasos individuales de este proceso, nos planteamos la pregunta de si era posible realizar la totalidad de estos pasos utilizando herramientas de código abierto. Intentamos responder a esta pregunta recopilando, seleccionando, organizando y evaluando un conjunto integral de herramientas de código abierto para la captura de datos aéreos con fines de investigación. El resultado de estas acciones es el "Open Science Drone Toolkit" (OSDT).
 
 ![aerial images](img/aerial_data.png)
 
 &nbsp;
-## What you can do with the OSDT
+## Qué se puede hacer con el OSDT
 
-The OSDT is a set of open source hardware and software tools and also guides and protocols to enable the user to perform all the necessary tasks to obtain aerial data:
+El OSDT es un conjunto de herramientas de hardware y software de código abierto y también guías y protocolos para que el usuario pueda realizar todas las tareas necesarias para obtener datos aéreos:
 
-![tasks](img/tasks.png)
-
-&nbsp;
-## How to use the toolkit
-
-The toolkit documentation includes: a “usage guide”, with instructions for flying the drone, programming an autonomous mission, programming the camera, and image processing. 
+![tareas](img/tareas.png)
 
 &nbsp;
-## Build your own toolkit
+## Cómo utilizar estas herramientas
 
-An “assembly guide” is also available, that includes a step-by-step guide for building the OVLI drone, setting up and configuring the hardware components, and installing the software. Once you have all parts, it should take you just a few days to have your open hardware / open software toolkit ready.
+La documentación del kit de herramientas incluye una “guía de uso”, con instrucciones para volar el dron, programar una misión autónoma, programar la cámara y procesar imágenes.
+
+&nbsp;
+## Arma tu propia caja de herramientas
+
+También está disponible una "guía de construcción", que incluye instrucciones paso a paso para construir el dron OVLI, instalar y configurar los componentes de hardware e instalar el software. Una vez que tengas todos los componentes, solo te tomará unos días tener lista tu caja de herramientas de hardware y software abierto.
 
 <h3 align="center">
 Hardware
 </h3>
 
 <p align="center">
-Drone (<a href="http://vuela.cc/ovli">OVLI drone</a>)
+Dron (<a href="http://vuela.cc/ovli">dron OVLI</a>)
 </p>
 <p align="center"> 
-Camera (Canon brand camera compatible with CHDK software)
+Cámara (cámara marca Canon compatible con el software CHDK)
 </p>
 <p align="center"> 
-Radio transmitter (generic 6-channel radio transmitter)
+Radiocontrol (transmisor genérico de 6 canales)
 </p>
 <p align="center"> 
-Batteries and charger (generic 3-cell lithium-polymer battery and balance charger)
+Baterías y cargador (batería genérica de litio-polímero de 3 celdas y cargador-balanceador)
 </p>
 <p align="center"> 
-Computer (generic PC with Windows operating system)
+Computadora (PC portátil genérica con sistema operativo Windows)
 </p>
 <p align="center"> 
-Smartphone (generic smartphone with Android operating system)
+Teléfono (teléfono móvil genérico con sistema operativo Android)
 </p>
 <p align="center"> 
 <img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/hardware.png" alt = "Hardware">
@@ -52,48 +52,48 @@ Software
 </h3>
 
 <p align="center">
-GPS recorder (<a href="https://www.basicairdata.eu/projects/android/android-gps-logger/">GPS Logger</a>)
+Registrador de GPS (<a href="https://www.basicairdata.eu/projects/android/android-gps-logger/">GPS Logger</a>)
 </p>
 <p align="center">
-Drone ground station (<a href="https://ardupilot.org/planner/">Mission Planner</a>)
+Estación de tierra (<a href="https://ardupilot.org/planner/">Mission Planner</a>)
 </p>
 <p align="center">
-Camera control (<a href="https://chdk.fandom.com/wiki/CHDK">CHDK</a>)
+Control de cámara (<a href="https://chdk.fandom.com/wiki/CHDK">CHDK</a>)
 </p>
 <p align="center">
-Drone autopilot (<a href="https://ardupilot.org/copter/">ArduCopter</a>)
+Piloto automático (<a href="https://ardupilot.org/copter/">ArduCopter</a>)
 </p>
 <p align="center">
-Image processing (<a href="https://www.opendronemap.org/">OpenDroneMap</a>)
+Procesamiento de imágenes (<a href="https://www.opendronemap.org/">OpenDroneMap</a>)
 </p>
 <p align="center">
-Orthomosaic processing and analysis (<a href="https://qgis.org/">QGIS</a>)
+Procesamiento y análisis de mosaicos (<a href="https://qgis.org/">QGIS</a>)
 </p>
 <p align="center">
-Data management (<a href="https://github.com/gpereyrairujo/bitacora">Bitácora</a>)
+Manejo de datos (<a href="https://github.com/gpereyrairujo/bitacora">Bitácora</a>)
 </p>
 <p align="center"> 
 <img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/software.png" alt = "Software">
 </p>
 
 <h3 align="center">
-Documentation
+Documentación
 </h3>
 
 <p align="center">
-Toolkit assembly guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub">web</a> | 
+Guía de construcción ( <a href="https://docs.google.com/document/d/e/2PACX-1vTXeasMgMOBvqAP6wmyNhIa-ovO8ws7W8Og-I5_ktDZyjy2wyLvKLCkDlXn1ZJA4xkJHSO_x_zvbJ-8/pub">web</a> | 
                          <a href="https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/export?format=pdf">pdf</a> )
 </p>
 <p align="center">
-Toolkit usage guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
+Guía de uso ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
                          <a href="https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf">pdf</a> )
 </p>
 
 &nbsp;
-## Open source is ❤
+## Código abierto es ❤
 
-The OVLI drone is open hardware, which means you are free to modify it. An easy way to make you own version of the OVLI is to modify the frame, which is assembled from MDF (Medium Density Fibreboard) cut with a laser cutter according to a design file, which can be edited to modify the drone structure (using the open source software Inkscape). It is also possible make your own version of the OVLI by changing the motors, propellers, etc. 
+El dron OVLI es hardware abierto, lo que significa que puedes modificarlo libremente. Una manera fácil de hacer tu propia versión del OVLI es modificar la estructura, que se ensambla a partir de MDF (tablero de fibra de densidad media) cortado con un cortador láser según un plano digital, que se puede editar para modificar la estructura del dron (usando el software de código abierto Inkscape). También es posible hacer tu propia versión del OVLI cambiando motores, hélices, etc.
 
-All the software in the toolkit is also open source. The Bitácora software was developed by us especially for this toolkit, and we would gladly welcome your contributions to it. You can find its source code [here](https://github.com/gpereyrairujo/bitacora).
+Todo el software de la caja de herramientas también es de código abierto. El software "Bitácora" fue desarrollado por nosotros especialmente para el Toolkit, y los aportes y sugerencias son bienvenidos. Puedes encontrar su código fuente [aquí] (https://github.com/gpereyrairujo/bitacora).
 
-Both the “usage” and “assembly” guides are openly licensed documents (using a CC-BY-SA license, which means you can use their content as long as you cite the source and share it openly again), and also as live documents (in Google Docs) open for suggestions. 
+Tanto las guías de uso como la de construcción son documentos con licencia abierta (usando una licencia CC-BY-SA, lo que significa que se puede usar su contenido siempre que se cite la fuente y se comparta abiertamente de nuevo), y también como documentos vivos (en Google Docs) abiertos a sugerencias.
