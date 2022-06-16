@@ -62,7 +62,13 @@ Entre junio de 2017 y enero de 2019 trabajamos con más de 100 personas para arr
 
 &nbsp;
 
+<video src="https://player.vimeo.com/video/271803564?h=f20ba65c6e" style="max-width: 480px"></video>
+<p><a href="https://vimeo.com/271803564">Talleres Vuela 2017</a></p>
+
+&nbsp;
+
 <video src="https://github.com/vuelaendron/vuela/blob/master/docs/img/talleres_vuela.mp4?raw=true" controls="controls" style="max-width: 480px"></video>
+Talleres Vuela 2018-2019
 
 &nbsp;
 
