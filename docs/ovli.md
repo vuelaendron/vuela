@@ -10,7 +10,7 @@ El dron OVLI es un cuadricóptero (un helicóptero con cuatro hélices), equipad
 
 El OVLI tiene una capacidad de carga útil suficiente para una cámara de espectro visible (RGB) de alta resolución, una cámara multiespectral u otros sensores. El uso de una cámara con software CHDK permite la captura de imágenes reproducibles de alta calidad y alta resolución adecuadas para fines de investigación. Con un tiempo de vuelo máximo de 15 minutos, el dron OVLI es capaz de realizar una amplia gama de misiones de mapeo. El OVLI se puede operar a través de un radiocontrol manual, pero para fines de investigación, generalmente es conveniente volar el dron de forma autónoma utilizando un plan de vuelo programado previamente. El dron sigue este plan de vuelo mientras captura imágenes, y la información sobre su posición, voltaje de la batería, altitud, velocidad, etc. se puede ver en vivo desde el software de estación terrestre.
 
-El OVLI está basado en hardware y software libre y de código abierto, lo que permite al usuario inspeccionar todos sus componentes o personalizarlo para diferentes aplicaciones. "OVLI" es un acrónimo de "Objeto Volador Libre".
+El OVLI está basado en hardware y software libre y de código abierto, lo que permite inspeccionar todos sus componentes o personalizarlo para diferentes aplicaciones. "OVLI" es un acrónimo de "Objeto Volador Libre".
 
 &nbsp;
 
