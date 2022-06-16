@@ -6,7 +6,7 @@
 
 &nbsp;
 
-El dron OVLI es un cuadricóptero (un helicóptero con cuatro hélices), equipado con un piloto automático con acelerómetro, giroscopio y sensores GPS que permiten un vuelo totalmente autónomo.
+El dron OVLI es un dron multirrotor de cuatro hélices, equipado con un piloto automático con acelerómetro, giroscopio y sensores GPS que permiten un vuelo totalmente autónomo.
 
 El OVLI tiene una capacidad de carga útil suficiente para una cámara de espectro visible (RGB) de alta resolución, una cámara multiespectral u otros sensores. El uso de una cámara con software CHDK permite la captura de imágenes reproducibles de alta calidad y alta resolución adecuadas para fines de investigación. Con un tiempo de vuelo máximo de 15 minutos, el dron OVLI es capaz de realizar una amplia gama de misiones de mapeo. El OVLI se puede operar a través de un radiocontrol manual, pero para fines de investigación, generalmente es conveniente volar el dron de forma autónoma utilizando un plan de vuelo programado previamente. El dron sigue este plan de vuelo mientras captura imágenes, y la información sobre su posición, voltaje de la batería, altitud, velocidad, etc. se puede ver en vivo desde el software de estación terrestre.
 

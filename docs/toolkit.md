@@ -26,7 +26,7 @@ Hardware
 </h3>
 
 <p align="center">
-Dron (<a href="http://vuela.cc/ovli">dron OVLI</a>)
+Dron (<a href="https://vuela.cc/ovli">dron OVLI</a>)
 </p>
 <p align="center"> 
 Cámara (cámara marca Canon compatible con el software CHDK)
@@ -94,6 +94,6 @@ Guía de uso ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFw
 
 El dron OVLI es hardware abierto, lo que significa que puedes modificarlo libremente. Una manera fácil de hacer tu propia versión del OVLI es modificar la estructura, que se ensambla a partir de MDF (tablero de fibra de densidad media) cortado con un cortador láser según un plano digital, que se puede editar para modificar la estructura del dron (usando el software de código abierto Inkscape). También es posible hacer tu propia versión del OVLI cambiando motores, hélices, etc.
 
-Todo el software de la caja de herramientas también es de código abierto. El software "Bitácora" fue desarrollado por nosotros especialmente para el Toolkit, y los aportes y sugerencias son bienvenidos. Puedes encontrar su código fuente [aquí] (https://github.com/gpereyrairujo/bitacora).
+Todo el software de la caja de herramientas también es de código abierto. El software "Bitácora" fue desarrollado por nosotros especialmente para el Toolkit, y los aportes y sugerencias son bienvenidos. Puedes encontrar su código fuente [aquí](https://github.com/gpereyrairujo/bitacora).
 
 Tanto las guías de uso como la de construcción son documentos con licencia abierta (usando una licencia CC-BY-SA, lo que significa que se puede usar su contenido siempre que se cite la fuente y se comparta abiertamente de nuevo), y también como documentos vivos (en Google Docs) abiertos a sugerencias.
