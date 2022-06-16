@@ -26,7 +26,7 @@ Hardware
 </h3>
 
 <p align="center">
-Drone (<a href="http://vuela.cc/ovli">OVLI drone</a>)
+Drone (<a href="http://vuela.cc/en/ovli">OVLI drone</a>)
 </p>
 <p align="center"> 
 Camera (Canon brand camera compatible with CHDK software)
