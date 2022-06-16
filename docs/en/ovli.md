@@ -21,7 +21,6 @@ The OVLI is based on free and open source hardware and software, which allows th
 Weight | Without batteries or payload: 773g  - With 2200 mAh battery: 960g - With 2200 mAh battery and camera: 1100g - With 5000 mAh battery: 1125g - With 5000 mAh battery and camera: 1265g 
 Dimensions (LxWxH) | Without propellers: 330 x 330 x 200 mm - With propellers: 470 x 470 x 200 mm
 Diagonal distance | 395 mm
-Diagonal distance | 395 mm
 Max flight time | With 5000 mAh battery and camera: 15 min (11 min until 30% remaining battery)
 Autopilot | Pixhawk 2.4.8 (32-bit ARM Cortex M4 core with FPU - 168 Mhz/256 KB RAM/2 MB Flash - 32-bit failsafe co-processor)
 Positioning | Extended Kalman Filter algorithm based on gyroscopes, accelerometer, compass, GPS, and barometer
