@@ -44,7 +44,7 @@ Los drones pueden ser una poderosa herramienta para la investigación en discipl
 
 En los talleres fuimos identificando varias posibles mejoras, modificaciones y adiciones al diseño original del ‘Flone’, necesarios para utilizar el dron con fines de investigación. En un uso ‘típico’ en investigación, un dron necesita poder posicionarse de manera confiable sobre el terreno estudiado y capturar imágenes de alta calidad que luego puedan procesarse para obtener una imagen o mapa de alta resolución del área estudiada. Estas mejoras fueron el objetivo de las actividades del proyecto durante 2018.
 
-Con estas modificaciones el drone terminó siendo bastante diferente al Flone original, y lo llamamos OVLI (Objeto Volador LIbre). Además, trabajamos en identificar otras herramientas de hardware y software libre necesarias, de forma de contar con una ‘caja de herramientas’ completa.
+Con estas modificaciones el drone terminó siendo bastante diferente al Flone original, y lo llamamos [OVLI](ovli) (Objeto Volador LIbre). Además, trabajamos en identificar otras herramientas de hardware y software libre necesarias, de forma de contar con una [‘caja de herramientas’](toolkit) completa.
 
 &nbsp;
 
