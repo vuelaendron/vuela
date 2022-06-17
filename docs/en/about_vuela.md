@@ -40,6 +40,18 @@ The toolkit has been built with diverse people: secondary school students,  trad
 
 Developing this drone prototype took the work of more than 100 people between June 2017 and January 2019, in more than 30 local and in-person workshops, as well as permanent online collaboration using tools like [GitHub](https://github.com/vuelaendron/vuela). We are producing the documentation in different languages (in English, Spanish and Haitian Créole), and in a format that is easy to modify and translate. Between August 2018 and January 2019 we worked on further improving this prototype and then put it to the test for agricultural research in 5 South American countries: Argentina, Brazil, Chile, Paraguay and Uruguay.  
 
+&nbsp;
+
+{% include vimeo_player.html id=274983906 %}
+
+<p><a href="https://vimeo.com/274983906">2017 workshops</a></p>
+
+&nbsp;
+
+<video src="https://github.com/vuelaendron/vuela/blob/master/docs/img/talleres_vuela.mp4?raw=true" controls="controls" style="max-width: 480px"></video>
+2018-2019 workshops
+
+&nbsp;
 
 ### More info
 
@@ -57,9 +69,8 @@ Here some photos and videos:
 
 [Vimeo](https://vimeo.com/user67511666)
 
-You can connect with us through our forum: http://foro.vuela.cc/ or sending an email to vuelaendron@gmail.com
+You can connect with us by sending an email to vuelaendron@gmail.com
 
-And you can find out how to build your own OVLI with our [assembly guide](https://vuelaendron.github.io/vuela/guia).
 
 ### Contributing
 

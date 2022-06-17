@@ -60,13 +60,10 @@ El kit ha sido construido con diversas personas: estudiantes secundarios, cient�
 
 Entre junio de 2017 y enero de 2019 trabajamos con más de 100 personas para arribar a este prototipo en más de 30 talleres locales y presenciales, y también a través de un trabajo permanente en línea utilizando herramientas de colaboración como [GitHub](https://github.com/vuelaendron/vuela). Estamos además desarrollando documentación en diferentes idiomas (inglés, español y criollo haitiano), y en un formato que sea fácil de modificar y traducir. Entre agosto de 2018 y enero de 2019 trabajamos para mejorar el prototipo y ponerlo a prueba para investigación agrícola en 5 países de Sudamérica: Argentina, Brasil, Chile, Paraguay y Uruguay.
 
-{% include vimeo_player.html id=271803564 %}
-
-<p><a href="https://vimeo.com/271803564">Talleres Vuela 2017</a></p>
-
 &nbsp;
 
-<video src="https://player.vimeo.com/video/271803564" style="max-width: 480px"></video>
+{% include vimeo_player.html id=271803564 %}
+
 <p><a href="https://vimeo.com/271803564">Talleres Vuela 2017</a></p>
 
 &nbsp;
