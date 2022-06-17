@@ -84,7 +84,7 @@ https://docs.google.com/document/d/1_tNY7UK35flxOQ0ZQNhps3qg5j1-PpDxrRWyFFqQm7w/
 
 ## Contributing - _Cómo contribuir_
 
-We need a lot of help for this project! Luckily, there are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md) and the [list of open issues](https://github.com/vuelaendron/vuela/issues).
+We need a lot of help for this project! Luckily, there are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md) and the [list of open issues](https://github.com/vuelaendron/vuela/issues)
 
 _¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) y la [lista de problemas abiertos (issues)](https://github.com/vuelaendron/vuela/issues)._
 
