@@ -18,7 +18,7 @@ The OVLI is based on free and open source hardware and software, which allows th
 
 **Airframe** |  |
 --- | --- |
-Weight | Without batteries or payload: 773g  - With 2200 mAh battery: 960g - With 2200 mAh battery and camera: 1100g - With 5000 mAh battery: 1125g - With 5000 mAh battery and camera: 1265g 
+Weight | Without batteries or payload: 773g  - With 2200 mAh battery: 960g - With 2200 mAh battery and camera: 1100g - With 5000 mAh battery: 1125g - With 5000 mAh battery and camera: 1265g - Max total weight: 1700g
 Dimensions (LxWxH) | Without propellers: 330 x 330 x 200 mm - With propellers: 470 x 470 x 200 mm
 Diagonal distance | 395 mm
 Max flight time | With 5000 mAh battery and camera: 15 min (11 min until 30% remaining battery)
