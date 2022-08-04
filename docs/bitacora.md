@@ -7,7 +7,7 @@
 
 ## Instalación
 
-1. Descargar el archivo zip desde https://github.com/gpereyrairujo/bitacora/releases/download/v0.6.0-alpha/bitacora.0.6.win.zip (o la última versión publicada en https://github.com/gpereyrairujo/bitacora/releases)
+1. Descargar el archivo zip desde <a href="https://github.com/gpereyrairujo/bitacora/releases/download/v0.6.0-alpha/bitacora.0.6.win.zip">https://github.com/gpereyrairujo/bitacora/releases/download/v0.6.0-alpha/bitacora.0.6.win.zip</a> (o la última versión publicada en <a href="https://github.com/gpereyrairujo/bitacora/releases">https://github.com/gpereyrairujo/bitacora/releases</a>)
 
 2. Extraer los archivos del zip, y copiar la carpeta `bitacora` a la carpeta `C:/Archivos de programa` o a cualquier otra ubicación
 
