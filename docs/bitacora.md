@@ -3,8 +3,7 @@
 
 **Bitácora** es una herramienta para ayudar a organizar la información generada con drones. Permite visualizar y organizar la información generada antes, durante y después de los vuelos.
 
----
-
+&nbsp;
 ## Instalación
 
 1. Descargar el archivo zip desde <a href="https://github.com/gpereyrairujo/bitacora/releases/download/v0.6.0-alpha/bitacora.0.6.win.zip">https://github.com/gpereyrairujo/bitacora/releases/download/v0.6.0-alpha/bitacora.0.6.win.zip</a> (o la última versión publicada en <a href="https://github.com/gpereyrairujo/bitacora/releases">https://github.com/gpereyrairujo/bitacora/releases</a>)
@@ -13,8 +12,7 @@
 
 3. Para abrir Bitácora, hacer doble clic en el archivo ejecutable `bitacora.exe` (para más comodidad, se puede crear un acceso directo, o arrastrar el archivo a la barra de tareas para fijarlo)
 
----
-
+&nbsp;
 ## Utilización
 
 ### Paso 1
@@ -40,8 +38,7 @@ También se guardan los datos del vuelo en la carpeta original, en formatos comp
 
 ![imagen](https://user-images.githubusercontent.com/8480839/182929040-6a582e9e-3ed1-43d8-a9f2-803f5c862a73.png)
 
----
-
+&nbsp;
 ## Archivos compatibles e información extraída/visualizada
 
 ### Imágenes (archivos .jpg o .jpeg)
@@ -81,3 +78,4 @@ También se guardan los datos del vuelo en la carpeta original, en formatos comp
 ![imagen](https://user-images.githubusercontent.com/8480839/182954453-90254f60-abba-4280-9947-500465756835.png)
 
 
+&nbsp;
