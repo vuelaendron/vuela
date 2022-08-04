@@ -70,7 +70,7 @@ Procesamiento de imágenes (<a href="https://www.opendronemap.org/">OpenDroneMap
 Procesamiento y análisis de mosaicos (<a href="https://qgis.org/">QGIS</a>)
 </p>
 <p align="center">
-Manejo de datos (<a href="https://github.com/gpereyrairujo/bitacora">Bitácora</a>)
+Manejo de datos (<a href="https://vuela.cc/bitacora">Bitácora</a>)
 </p>
 <p align="center"> 
 <img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/software.png" alt = "Software">
