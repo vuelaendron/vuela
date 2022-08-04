@@ -70,7 +70,7 @@ Image processing (<a href="https://www.opendronemap.org/">OpenDroneMap</a>)
 Orthomosaic processing and analysis (<a href="https://qgis.org/">QGIS</a>)
 </p>
 <p align="center">
-Data management (<a href="https://github.com/gpereyrairujo/bitacora">Bitácora</a>)
+Data management (<a href="https://vuela.cc/en/bitacora">Bitácora</a>)
 </p>
 <p align="center"> 
 <img src = "https://github.com/vuelaendron/vuela/raw/master/docs/img/software.png" alt = "Software">
