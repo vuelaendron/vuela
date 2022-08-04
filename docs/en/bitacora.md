@@ -1,7 +1,9 @@
 ![imagen](https://user-images.githubusercontent.com/8480839/182930659-e23dcc4a-0738-4035-a775-a137cd8d06e0.png)
 
 
-**Bitácora (Logbook)** is a tool that helps to organize the information generated with drones. It allows to visualize and organize the information generated before, during and after the flights.
+The open-source application **Bitácora** (“logbook” in Spanish), developed especially for the <a href="https://vuela.cc/en/toolkit">OSDT</a>, helps in visualizing and organizing all the files, images and metadata generated during the whole process, for archiving, sharing or further processing. The user only needs to save all the files generated in a flight (survey area polygon, flight plan, captured images, mosaic, elevation model, etc.) in a folder, and the program will automatically generate a map visualizing the files, and a table with flight information (flight date and time, location, altitude, speed, names of relevant files). This information is also saved in open formats compatible with other software (flight information table in csv format, flight map in png and kml formats).
+
+![imagen](https://user-images.githubusercontent.com/38918639/182966424-b67a3b9d-f8ea-4d33-ba57-f089421e5722.png)
 
 
 &nbsp;
