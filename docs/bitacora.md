@@ -3,8 +3,7 @@
 
 La aplicación de código abierto **Bitácora**, desarrollada especialmente para el <a href="https://vuela.cc/toolkit">OSDT</a>, ayuda a visualizar y organizar todos los archivos, imágenes y metadatos generados durante todo el proceso, para almacenarlos, compartirlos o continuar su análisis. El usuario sólo necesita guardar en una misma carpeta todos los archivos generados durante un vuelo (polígono del área relevada, plan de vuelo, imágenes capturadas, mosaico, modelo de elevación, etc.), y el programa generará automáticamente un mapa visualizando los archivos y una tabla con información del vuelo (fecha y hora del vuelo, ubicación, altitud, velocidad, nombres de archivos relevantes). Esta información también se guarda en formatos abiertos compatibles con otros programas (tabla de información de vuelo en formato csv, mapa de vuelo en formato png y kml).
 
-![imagen](https://user-images.githubusercontent.com/38918639/182964844-51f3a98e-2e47-45de-be18-ec3324112f04.png)
-
+![imagen](https://user-images.githubusercontent.com/8480839/182968600-8294a8e5-8a49-41a1-ab87-4b168b0b24a3.png)
 
 &nbsp;
 ## Instalación
