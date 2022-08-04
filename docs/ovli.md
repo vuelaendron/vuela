@@ -18,7 +18,7 @@ El OVLI está basado en hardware y software libre y de código abierto, lo que p
 
 **Vehículo** |  |
 --- | --- |
-Peso | Sin baterías ni carga útil: 773g  - Con batería de 2200 mAh: 960g - Con batería de 2200 mAh y cámara: 1100g - Con batería de 5000 mAh: 1125g - Con batería de 5000 mAh y cámara: 1265g 
+Peso | Sin baterías ni carga útil: 773g  - Con batería de 2200 mAh: 960g - Con batería de 2200 mAh y cámara: 1100g - Con batería de 5000 mAh: 1125g - Con batería de 5000 mAh y cámara: 1265g  - Peso máximo total: 1700g
 Dimensiones (LxAxH) | Sin hélices: 330 x 330 x 200 mm - Con hélices: 470 x 470 x 200 mm
 Distancia diagonal | 395 mm
 Tiempo de vuelo máximo | Con batería de 5000 mAh y cámara: 15 min (11 min hasta 30% de batería restante)
