@@ -1,7 +1,10 @@
 ![imagen](https://user-images.githubusercontent.com/8480839/182930659-e23dcc4a-0738-4035-a775-a137cd8d06e0.png)
 
 
-**Bitácora** es una herramienta para ayudar a organizar la información generada con drones. Permite visualizar y organizar la información generada antes, durante y después de los vuelos.
+La aplicación de código abierto **Bitácora**, desarrollada especialmente para el <a href="https://vuela.cc/toolkit">OSDT</a>, ayuda a visualizar y organizar todos los archivos, imágenes y metadatos generados durante todo el proceso, para almacenarlos, compartirlos o continuar su análisis. El usuario sólo necesita guardar en una misma carpeta todos los archivos generados durante un vuelo (polígono del área relevada, plan de vuelo, imágenes capturadas, mosaico, modelo de elevación, etc.), y el programa generará automáticamente un mapa visualizando los archivos y una tabla con información del vuelo (fecha y hora del vuelo, ubicación, altitud, velocidad, nombres de archivos relevantes). Esta información también se guarda en formatos abiertos compatibles con otros programas (tabla de información de vuelo en formato csv, mapa de vuelo en formato png y kml).
+
+![imagen](https://user-images.githubusercontent.com/38918639/182964844-51f3a98e-2e47-45de-be18-ec3324112f04.png)
+
 
 &nbsp;
 ## Instalación
