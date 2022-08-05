@@ -1,7 +1,7 @@
 ![Bitácora](img/bitacora.png)
 
 
-The open-source application **Bitácora** (“logbook” in Spanish), developed especially for the <a href="https://vuela.cc/en/toolkit">OSDT</a>, helps in visualizing and organizing all the files, images and metadata generated during the whole process, for archiving, sharing or further processing. The user only needs to save all the files generated in a flight (survey area polygon, flight plan, captured images, mosaic, elevation model, etc.) in a folder, and the program will automatically generate a map visualizing the files, and a table with flight information (flight date and time, location, altitude, speed, names of relevant files). This information is also saved in open formats compatible with other software (flight information table in csv format, flight map in png and kml formats).
+The open-source application **Bitácora** (“logbook” in Spanish), developed especially for the <a href="https://vuela.cc/en/toolkit">OSDT</a>, helps in visualizing and organizing all the files, images and metadata generated before, during, and after a drone flight, for archiving, sharing or further processing. The user only needs to save all the files (survey area polygon, flight plan, captured images, mosaic, elevation model, etc.) in a folder, and the program will automatically generate a map visualizing the files, and a table with flight information (flight date and time, location, altitude, speed, names of relevant files). This information is also saved in open formats compatible with other software (flight information table in csv format, flight map in png and kml formats).
 
 ![imagen](https://user-images.githubusercontent.com/8480839/182968311-0f0eec55-caf1-4851-a0e6-109839bbb077.png)
 
