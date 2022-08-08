@@ -85,8 +85,8 @@ Guía de construcción ( <a href="https://docs.google.com/document/d/1tggZiuJUs4
                        <a href="https://docs.google.com/document/d/1tggZiuJUs4auH8q10i0Y0hu3n_9OcOXIdaILVW9r6xw/export?format=pdf">pdf</a> )
 </p>
 <p align="center">
-Guía de uso ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
-                         <a href="https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf">pdf</a> )
+Guía de uso ( <a href="https://docs.google.com/document/d/1zovHAlRXXMFL1DGB0Gw86sgsunP2yan8vVPw85lxmn8/pub">web</a> | 
+              <a href="https://docs.google.com/document/d/1zovHAlRXXMFL1DGB0Gw86sgsunP2yan8vVPw85lxmn8/export?format=pdf">pdf</a> )
 </p>
 
 &nbsp;
