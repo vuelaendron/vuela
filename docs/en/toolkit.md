@@ -84,8 +84,7 @@ Documentation
 Toolkit assembly guide (<a href="https://docs-google-com.translate.goog/document/d/1tggZiuJUs4auH8q10i0Y0hu3n_9OcOXIdaILVW9r6xw/pub?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp">automatic translation from Spanish version</a>)
 </p>
 <p align="center">
-Toolkit usage guide ( <a href="https://docs.google.com/document/d/e/2PACX-1vScLeK9OIsFwau_AjD0BoZ5qA3AALa-EZ8q1DCav_d9Ow6-NHXU-6HZ554YjgXLA6lWTsBkX81iXsXL/pub">web</a> | 
-                         <a href="https://docs.google.com/document/d/1_JU6kWQkkMbWsNESzSVhhXOGH1_aeSgy2gr4xeK5eRg/export?format=pdf">pdf</a> )
+Toolkit usage guide (<a href="https://docs-google-com.translate.goog/document/d/1zovHAlRXXMFL1DGB0Gw86sgsunP2yan8vVPw85lxmn8/pub?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp">automatic translation from Spanish version</a>)
 </p>
 
 &nbsp;
