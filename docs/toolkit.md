@@ -97,3 +97,9 @@ El dron OVLI es hardware abierto, lo que significa que puedes modificarlo librem
 Todo el software de la caja de herramientas también es de código abierto. El software "Bitácora" fue desarrollado por nosotros especialmente para el Toolkit, y los aportes y sugerencias son bienvenidos. Puedes encontrar su código fuente [aquí](https://github.com/gpereyrairujo/bitacora).
 
 Tanto las guías de uso como la de construcción son documentos con licencia abierta (usando una licencia CC-BY-SA, lo que significa que se puede usar su contenido siempre que se cite la fuente y se comparta abiertamente de nuevo), y también como documentos vivos (en Google Docs) abiertos a sugerencias.
+
+&nbsp;
+## Artículo científico
+
+Un descripción detallada del OSDT, junto a un ejemplo de uso científico, fue publicada en la revista PLOS One. El artículo original en inglés se encuentra disponible [aquí](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284184), y también en su versión en Español [aquí](https://doi.org/10.1371/journal.pone.0284184.s001).
+
