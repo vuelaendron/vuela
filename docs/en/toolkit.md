@@ -95,3 +95,9 @@ The OVLI drone is open hardware, which means you are free to modify it. An easy 
 All the software in the toolkit is also open source. The Bitácora software was developed by us especially for this toolkit, and we would gladly welcome your contributions to it. You can find its source code [here](https://github.com/gpereyrairujo/bitacora).
 
 Both the “usage” and “assembly” guides are openly licensed documents (using a CC-BY-SA license, which means you can use their content as long as you cite the source and share it openly again), and also as live documents (in Google Docs) open for suggestions. 
+
+
+&nbsp;
+## Scientific journal article
+
+A detailed description of the OSDT, along with an example use case, was published in the scientific journal PLOS One. The article is available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284184).
