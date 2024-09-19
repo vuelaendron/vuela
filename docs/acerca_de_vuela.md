@@ -72,7 +72,6 @@ Entre junio de 2017 y enero de 2019 trabajamos con más de 100 personas para arr
 Talleres Vuela 2018-2019
 
 &nbsp;
-
 ### Más información
 
 Puedes encontrar más información sobre cómo comenzó el proyecto en estas historias:
@@ -81,20 +80,23 @@ Puedes encontrar más información sobre cómo comenzó el proyecto en estas his
 
 [Revista Liinc](http://revista.ibict.br/liinc/article/view/4237)
 
-Y algunas fotos y videos acá:
+Algunas fotos y videos acá:
 
 [Instagram](https://www.instagram.com/sombrerohill/)
 
 [Vimeo](https://vimeo.com/user67511666)
 
-Podés conectarte con nosotros a través del foro: http://foro.vuela.cc/ o por email a vuelaendron@gmail.com
+Y los detalles técnicos del kit y un ejemplo de uso en nuestro artículo científico:
 
-Y aprender cómo construirte tu propio OVLI con la [guía de construcción](https://vuelaendron.github.io/vuela/guia).
+[Open Science Drone Toolkit: Open source hardware and software for aerial data capture](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284184) (original en Inglés)
 
-### Cómo contribuir
+[Herramientas de código abierto para la captura de datos aéreos mediante drones](https://doi.org/10.1371/journal.pone.0284184.s001) (versión en Español)
 
-¡Necesitamos mucha ayuda para este proyecto! Por suerte hay muchas maneras de contribuir. Para comenzar, lee el archivo [CONTRIBUTING.md](https://github.com/vuelaendron/vuela/blob/master/CONTRIBUTING.md#c%C3%B3mo-contribuir---espa%C3%91ol) y la [lista de problemas abiertos (issues)](https://github.com/vuelaendron/vuela/issues).
+Podés conectarte con nosotros por email a vuelaendron@gmail.com
 
+Y conocer más sobre el kit de herramientas en [vuela.cc/toolkit](https://vuela.cc/toolkit).
+
+&nbsp;
 ### Normas de participación
 
 Este proyecto se adhiere a un [código de conducta](https://github.com/vuelaendron/vuela/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conducta-de-vuela---espa%C3%91ol). Al participar, se espera que cumplas este código. Puedes hacer preguntas o informar conductas inadecuadas a vuelaendron@gmail.com.
